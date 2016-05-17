@@ -4,5 +4,5 @@ soundeffect =
 	sounds { 
 			sound = morty_moving_pop 
 	}
-	volume = 0.45
+	volume = 0.70
 }
