@@ -1,5 +1,6 @@
 portraits = {
 
+	morty1 = {	texturefile = "gfx/models/portraits/morty/morty1.dds"	}
 	rick1 = {	texturefile = "gfx/models/portraits/rick/anim1.dds"  }
 	rick2 = {	texturefile = "gfx/models/portraits/rick/anim2.dds"  }
 	rick3 = {	texturefile = "gfx/models/portraits/rick/anim3.dds"  }
@@ -189,59 +190,8 @@ portrait_groups = {
 			add = {
 				portraits = {
 
-					rick1
-					rick2
-					rick3
-					rick4
-					rick5
-					rick6
-					rick7
-					rick8
-					rick9
-					rick10
-					rick11
-					rick12
-					rick13
-					rick14
-					rick15
-					rick16
-					rick17
-					rick18
-					rick19
-					rick20
-					rick21
-					rick22
-					rick23
-					rick24
-					rick25
-					rick26
-					rick27
-					rick28
-					rick29
-					rick30
-					rick31
-					rick32
-					rick33
-					rick34
-					rick35
-					rick36
-					rick37
-					rick38
-					rick39
-					rick40
-					rick41
-					rick42
-					rick43
-					rick44
-					rick45
-					rick46
-					rick47
-					rick48
-					rick49
-					rick50
-					rick51
-					rick52
-					rick53
+					morty1
+					
 				}
 			}
 

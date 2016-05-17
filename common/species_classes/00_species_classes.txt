@@ -195,11 +195,11 @@ FUN = {
 # put the new tab in another document instead of this one -InterfaceZealot
 COR = {
 	portraits = {
-		"anime"
+		"rick"
 	}
 	
 	graphical_culture = mammalian_01
-	move_pop_sound_effect = "moving_pop_confirmation"
+	move_pop_sound_effect = "morty_moving_pop"
 }
 
 PRE_MAM = {
