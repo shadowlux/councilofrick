@@ -3,5 +3,5 @@ sound =
 	name = "morty_moving_pop"
 	file = "ui/morty_moving_pop.wav"
 	always_load = no
-	volume = 0.45
+	volume = 0.75
 }
