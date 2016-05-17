@@ -1,123 +1,124 @@
 portraits = {
 
-	anime1 = {	texturefile = "gfx/models/portraits/anime/anim1.dds"  }
-	anime2 = {	texturefile = "gfx/models/portraits/anime/anim2.dds"  }
-	anime3 = {	texturefile = "gfx/models/portraits/anime/anim3.dds"  }
-	anime4 = {	texturefile = "gfx/models/portraits/anime/anim4.dds"  }
-	anime5 = {	texturefile = "gfx/models/portraits/anime/anim5.dds"  }
-	anime6 = {	texturefile = "gfx/models/portraits/anime/anim6.dds"  }
-	anime7 = {	texturefile = "gfx/models/portraits/anime/anim7.dds"  }
-	anime8 = {	texturefile = "gfx/models/portraits/anime/anim8.dds"  }
-	anime9 = {	texturefile = "gfx/models/portraits/anime/anim9.dds"  }
-	anime10 = {	texturefile = "gfx/models/portraits/anime/anim10.dds"  }
-	anime11 = {	texturefile = "gfx/models/portraits/anime/anim11.dds"  }
-	anime12 = {	texturefile = "gfx/models/portraits/anime/anim12.dds"  }
-	anime13 = {	texturefile = "gfx/models/portraits/anime/anim13.dds"  }
-	anime14 = {	texturefile = "gfx/models/portraits/anime/anim14.dds"  }
-	anime15 = {	texturefile = "gfx/models/portraits/anime/anim15.dds"  }
-	anime16 = {	texturefile = "gfx/models/portraits/anime/anim16.dds"  }
-	anime17 = {	texturefile = "gfx/models/portraits/anime/anim17.dds"  }
-	anime18 = {	texturefile = "gfx/models/portraits/anime/anim18.dds"  }
-	anime19 = {	texturefile = "gfx/models/portraits/anime/anim19.dds"  }
-	anime20 = {	texturefile = "gfx/models/portraits/anime/anim20.dds"  }
-	anime21 = {	texturefile = "gfx/models/portraits/anime/anim21.dds"  }
-	anime22 = {	texturefile = "gfx/models/portraits/anime/anim22.dds"  }
-	anime23 = {	texturefile = "gfx/models/portraits/anime/anim23.dds"  }
-	anime24 = {	texturefile = "gfx/models/portraits/anime/anim24.dds"  }
-	anime25 = {	texturefile = "gfx/models/portraits/anime/anim25.dds"  }
-	anime26 = {	texturefile = "gfx/models/portraits/anime/anim26.dds"  }
-	anime27 = {	texturefile = "gfx/models/portraits/anime/anim27.dds"  }
-	anime28 = {	texturefile = "gfx/models/portraits/anime/anim28.dds"  }
-	anime29 = {	texturefile = "gfx/models/portraits/anime/anim29.dds"  }
-	anime30 = {	texturefile = "gfx/models/portraits/anime/anim30.dds"  }
-	anime31 = {	texturefile = "gfx/models/portraits/anime/anim31.dds"  }
-	anime32 = {	texturefile = "gfx/models/portraits/anime/anim32.dds"  }
-	anime33 = {	texturefile = "gfx/models/portraits/anime/anim33.dds"  }
-	anime34 = {	texturefile = "gfx/models/portraits/anime/anim34.dds"  }
-	anime35 = {	texturefile = "gfx/models/portraits/anime/anim35.dds"  }
-	anime36 = {	texturefile = "gfx/models/portraits/anime/anim36.dds"  }
-	anime37 = {	texturefile = "gfx/models/portraits/anime/anim37.dds"  }
-	anime38 = {	texturefile = "gfx/models/portraits/anime/anim38.dds"  }
-	anime39 = {	texturefile = "gfx/models/portraits/anime/anim39.dds"  }
-	anime40 = {	texturefile = "gfx/models/portraits/anime/anim40.dds"  }
-	anime41 = {	texturefile = "gfx/models/portraits/anime/anim41.dds"  }
-	anime42 = {	texturefile = "gfx/models/portraits/anime/anim42.dds"  }
-	anime43 = {	texturefile = "gfx/models/portraits/anime/anim43.dds"  }
-	anime44 = {	texturefile = "gfx/models/portraits/anime/anim44.dds"  }
-	anime45 = {	texturefile = "gfx/models/portraits/anime/anim45.dds"  }
-	anime46 = {	texturefile = "gfx/models/portraits/anime/anim46.dds"  }
-	anime47 = {	texturefile = "gfx/models/portraits/anime/anim47.dds"  }
-	anime48 = {	texturefile = "gfx/models/portraits/anime/anim48.dds"  }
-	anime49 = {	texturefile = "gfx/models/portraits/anime/anim49.dds"  }
-	anime50 = {	texturefile = "gfx/models/portraits/anime/anim50.dds"  }
-	anime51 = {	texturefile = "gfx/models/portraits/anime/anim51.dds"  }
-	anime52 = {	texturefile = "gfx/models/portraits/anime/anim52.dds"  }
-	anime53 = {	texturefile = "gfx/models/portraits/anime/anim53.dds"  }
+	council1 = {	texturefile = "gfx/models/portraits/council/council1.dds"  }
+	council2 = {	texturefile = "gfx/models/portraits/council/council2.dds"  }
+	council3 = {	texturefile = "gfx/models/portraits/council/council3.dds"  }
+	council4 = {	texturefile = "gfx/models/portraits/council/council4.dds"  }
+	council5 = {	texturefile = "gfx/models/portraits/council/council5.dds"  }
+	council6 = {	texturefile = "gfx/models/portraits/council/council6.dds"  }
+	council7 = {	texturefile = "gfx/models/portraits/council/council7.dds"  }
+	council8 = {	texturefile = "gfx/models/portraits/council/council8.dds"  }
+	council9 = {	texturefile = "gfx/models/portraits/council/council9.dds"  }
+	council10 = {	texturefile = "gfx/models/portraits/council/council10.dds"  }
+	council11 = {	texturefile = "gfx/models/portraits/council/council11.dds"  }
+	council12 = {	texturefile = "gfx/models/portraits/council/council12.dds"  }
+	council13 = {	texturefile = "gfx/models/portraits/council/council13.dds"  }
+	council14 = {	texturefile = "gfx/models/portraits/council/council14.dds"  }
+	council15 = {	texturefile = "gfx/models/portraits/council/council15.dds"  }
+	council16 = {	texturefile = "gfx/models/portraits/council/council16.dds"  }
+	council17 = {	texturefile = "gfx/models/portraits/council/council17.dds"  }
+	council18 = {	texturefile = "gfx/models/portraits/council/council18.dds"  }
+	council19 = {	texturefile = "gfx/models/portraits/council/council19.dds"  }
+	council20 = {	texturefile = "gfx/models/portraits/council/council20.dds"  }
+	council21 = {	texturefile = "gfx/models/portraits/council/council21.dds"  }
+	council22 = {	texturefile = "gfx/models/portraits/council/council22.dds"  }
+	council23 = {	texturefile = "gfx/models/portraits/council/council23.dds"  }
+	council24 = {	texturefile = "gfx/models/portraits/council/council24.dds"  }
+	council25 = {	texturefile = "gfx/models/portraits/council/council25.dds"  }
+	council26 = {	texturefile = "gfx/models/portraits/council/council26.dds"  }
+	council27 = {	texturefile = "gfx/models/portraits/council/council27.dds"  }
+	council28 = {	texturefile = "gfx/models/portraits/council/council28.dds"  }
+	council29 = {	texturefile = "gfx/models/portraits/council/council29.dds"  }
+	council30 = {	texturefile = "gfx/models/portraits/council/council30.dds"  }
+	council31 = {	texturefile = "gfx/models/portraits/council/council31.dds"  }
+	council32 = {	texturefile = "gfx/models/portraits/council/council32.dds"  }
+	council33 = {	texturefile = "gfx/models/portraits/council/council33.dds"  }
+	council34 = {	texturefile = "gfx/models/portraits/council/council34.dds"  }
+	council35 = {	texturefile = "gfx/models/portraits/council/council35.dds"  }
+	council36 = {	texturefile = "gfx/models/portraits/council/council36.dds"  }
+	council37 = {	texturefile = "gfx/models/portraits/council/council37.dds"  }
+	council38 = {	texturefile = "gfx/models/portraits/council/council38.dds"  }
+	council39 = {	texturefile = "gfx/models/portraits/council/council39.dds"  }
+	council40 = {	texturefile = "gfx/models/portraits/council/council40.dds"  }
+	council41 = {	texturefile = "gfx/models/portraits/council/council41.dds"  }
+	council42 = {	texturefile = "gfx/models/portraits/council/council42.dds"  }
+	council43 = {	texturefile = "gfx/models/portraits/council/council43.dds"  }
+	council44 = {	texturefile = "gfx/models/portraits/council/council44.dds"  }
+	council45 = {	texturefile = "gfx/models/portraits/council/council45.dds"  }
+	council46 = {	texturefile = "gfx/models/portraits/council/council46.dds"  }
+	council47 = {	texturefile = "gfx/models/portraits/council/council47.dds"  }
+	council48 = {	texturefile = "gfx/models/portraits/council/council48.dds"  }
+	council49 = {	texturefile = "gfx/models/portraits/council/council49.dds"  }
+	council50 = {	texturefile = "gfx/models/portraits/council/council50.dds"  }
+	council51 = {	texturefile = "gfx/models/portraits/council/council51.dds"  }
+	council52 = {	texturefile = "gfx/models/portraits/council/council52.dds"  }
+	council53 = {	texturefile = "gfx/models/portraits/council/council53.dds"  }
+	council54 = {	texturefile = "gfx/models/portraits/council/council54.dds"  }
 }
 
 
 portrait_groups = {
 
 
-	anime = {
-		default = anime1
+	council = {
+		default = council1
 		game_setup = { #will run with a limited country scope. species and government is set but the country does not actually exist
 			add = {
 				portraits = {
 
-					anime1
-					anime2
-					anime3
-					anime4
-					anime5
-					anime6
-					anime7
-					anime8
-					anime9
-					anime10
-					anime11
-					anime12
-					anime13
-					anime14
-					anime15
-					anime16
-					anime17
-					anime18
-					anime19
-					anime20
-					anime21
-					anime22
-					anime23
-					anime24
-					anime25
-					anime26
-					anime27
-					anime28
-					anime29
-					anime30
-					anime31
-					anime32
-					anime33
-					anime34
-					anime35
-					anime36
-					anime37
-					anime38
-					anime39
-					anime40
-					anime41
-					anime42
-					anime43
-					anime44
-					anime45
-					anime46
-					anime47
-					anime48
-					anime49
-					anime50
-					anime51
-					anime52
-					anime53
+					council1
+					council2
+					council3
+					council4
+					council5
+					council6
+					council7
+					council8
+					council9
+					council10
+					council11
+					council12
+					council13
+					council14
+					council15
+					council16
+					council17
+					council18
+					council19
+					council20
+					council21
+					council22
+					council23
+					council24
+					council25
+					council26
+					council27
+					council28
+					council29
+					council30
+					council31
+					council32
+					council33
+					council34
+					council35
+					council36
+					council37
+					council38
+					council39
+					council40
+					council41
+					council42
+					council43
+					council44
+					council45
+					council46
+					council47
+					council48
+					council49
+					council50
+					council51
+					council52
+					council53
 				}
 			}
 
@@ -127,59 +128,59 @@ portrait_groups = {
 			add = {
 				portraits = {
 
-					anime1
-					anime2
-					anime3
-					anime4
-					anime5
-					anime6
-					anime7
-					anime8
-					anime9
-					anime10
-					anime11
-					anime12
-					anime13
-					anime14
-					anime15
-					anime16
-					anime17
-					anime18
-					anime19
-					anime20
-					anime21
-					anime22
-					anime23
-					anime24
-					anime25
-					anime26
-					anime27
-					anime28
-					anime29
-					anime30
-					anime31
-					anime32
-					anime33
-					anime34
-					anime35
-					anime36
-					anime37
-					anime38
-					anime39
-					anime40
-					anime41
-					anime42
-					anime43
-					anime44
-					anime45
-					anime46
-					anime47
-					anime48
-					anime49
-					anime50
-					anime51
-					anime52
-					anime53
+					council1
+					council2
+					council3
+					council4
+					council5
+					council6
+					council7
+					council8
+					council9
+					council10
+					council11
+					council12
+					council13
+					council14
+					council15
+					council16
+					council17
+					council18
+					council19
+					council20
+					council21
+					council22
+					council23
+					council24
+					council25
+					council26
+					council27
+					council28
+					council29
+					council30
+					council31
+					council32
+					council33
+					council34
+					council35
+					council36
+					council37
+					council38
+					council39
+					council40
+					council41
+					council42
+					council43
+					council44
+					council45
+					council46
+					council47
+					council48
+					council49
+					council50
+					council51
+					council52
+					council53
 				}
 			}
 
@@ -189,59 +190,59 @@ portrait_groups = {
 			add = {
 				portraits = {
 
-					anime1
-					anime2
-					anime3
-					anime4
-					anime5
-					anime6
-					anime7
-					anime8
-					anime9
-					anime10
-					anime11
-					anime12
-					anime13
-					anime14
-					anime15
-					anime16
-					anime17
-					anime18
-					anime19
-					anime20
-					anime21
-					anime22
-					anime23
-					anime24
-					anime25
-					anime26
-					anime27
-					anime28
-					anime29
-					anime30
-					anime31
-					anime32
-					anime33
-					anime34
-					anime35
-					anime36
-					anime37
-					anime38
-					anime39
-					anime40
-					anime41
-					anime42
-					anime43
-					anime44
-					anime45
-					anime46
-					anime47
-					anime48
-					anime49
-					anime50
-					anime51
-					anime52
-					anime53
+					council1
+					council2
+					council3
+					council4
+					council5
+					council6
+					council7
+					council8
+					council9
+					council10
+					council11
+					council12
+					council13
+					council14
+					council15
+					council16
+					council17
+					council18
+					council19
+					council20
+					council21
+					council22
+					council23
+					council24
+					council25
+					council26
+					council27
+					council28
+					council29
+					council30
+					council31
+					council32
+					council33
+					council34
+					council35
+					council36
+					council37
+					council38
+					council39
+					council40
+					council41
+					council42
+					council43
+					council44
+					council45
+					council46
+					council47
+					council48
+					council49
+					council50
+					council51
+					council52
+					council53
 				}
 			}
 
@@ -250,51 +251,51 @@ portrait_groups = {
 		leader = { #scientists, generals, admirals, governor
 			add = {
 				portraits = {
-					anime1
-					anime5
-					anime7
-					anime9
-					anime11
-					anime13
-					anime14
-					anime15
-					anime16
-					anime17
-					anime18
-					anime19
-					anime20
-					anime21
-					anime22
-					anime23
-					anime24
-					anime25
-					anime26
-					anime27
-					anime28
-					anime29
-					anime30
-					anime31
-					anime33
-					anime34
-					anime35
-					anime36
-					anime37
-					anime38
-					anime39
-					anime40
-					anime41
-					anime42
-					anime43
-					anime44
-					anime45
-					anime46
-					anime47
-					anime48
-					anime49
-					anime50
-					anime51
-					anime52
-					anime53
+					council1
+					council5
+					council7
+					council9
+					council11
+					council13
+					council14
+					council15
+					council16
+					council17
+					council18
+					council19
+					council20
+					council21
+					council22
+					council23
+					council24
+					council25
+					council26
+					council27
+					council28
+					council29
+					council30
+					council31
+					council33
+					council34
+					council35
+					council36
+					council37
+					council38
+					council39
+					council40
+					council41
+					council42
+					council43
+					council44
+					council45
+					council46
+					council47
+					council48
+					council49
+					council50
+					council51
+					council52
+					council53
 				}
 			}
 
@@ -303,45 +304,45 @@ portrait_groups = {
 		ruler = {
 			add = {
 				portraits = {
-					anime1
-					anime2
-					anime5
-					anime8
-					anime9
-					anime17
-					anime20
-					anime21
-					anime22
-					anime23
-					anime24
-					anime25
-					anime26
-					anime27
-					anime28
-					anime29
-					anime30
-					anime31
-					anime33
-					anime34
-					anime35
-					anime36
-					anime37
-					anime38
-					anime39
-					anime40
-					anime41
-					anime42
-					anime43
-					anime44
-					anime45
-					anime46
-					anime47
-					anime48
-					anime49
-					anime50
-					anime51
-					anime52
-					anime53
+					council1
+					council2
+					council5
+					council8
+					council9
+					council17
+					council20
+					council21
+					council22
+					council23
+					council24
+					council25
+					council26
+					council27
+					council28
+					council29
+					council30
+					council31
+					council33
+					council34
+					council35
+					council36
+					council37
+					council38
+					council39
+					council40
+					council41
+					council42
+					council43
+					council44
+					council45
+					council46
+					council47
+					council48
+					council49
+					council50
+					council51
+					council52
+					council53
 				}
 			}
 

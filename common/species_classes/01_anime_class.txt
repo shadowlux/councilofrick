@@ -6,7 +6,7 @@
 
 COR = {
 	portraits = {
-		"anime"
+		"council"
 	}
 	
 	graphical_culture = mammalian_01
