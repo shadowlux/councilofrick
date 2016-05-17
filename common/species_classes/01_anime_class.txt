@@ -6,7 +6,11 @@
 
 COR = {
 	portraits = {
+<<<<<<< HEAD
 		"council"
+=======
+		"rick"
+>>>>>>> origin/master
 	}
 	
 	graphical_culture = mammalian_01

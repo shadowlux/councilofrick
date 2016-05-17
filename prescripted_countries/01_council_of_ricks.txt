@@ -13,7 +13,11 @@ councilofricks = {
 	trait = "trait_conformists"	
 	trait = "trait_decadent"
 	trait = "trait_repugnant"
+<<<<<<< HEAD
 	portrait = "council"
+=======
+	portrait = "rick"
+>>>>>>> origin/master
 	adjective = "Rick"
 	
 	government = "science_directorate"
@@ -52,14 +56,22 @@ councilofricks = {
 	#leader = {
 	#	name = "Rick Sanchez"
 	#	class = ruler
+<<<<<<< HEAD
 	#	portrait = "council1"
+=======
+	#	portrait = "rick1"
+>>>>>>> origin/master
 	#	experience = 1200.0
 	#}
 	
 	ruler = {
 		name = "Rick Sanchez"
 		gender = male
+<<<<<<< HEAD
 		portrait = "council1"
+=======
+		portrait = "rick1"
+>>>>>>> origin/master
 		texture = 0
 		hair = 0
 		clothes = 0
