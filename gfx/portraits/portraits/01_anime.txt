@@ -1,123 +1,123 @@
 portraits = {
 
-	anime1 = {	texturefile = "gfx/models/portraits/anime/anim1.dds"  }
-	anime2 = {	texturefile = "gfx/models/portraits/anime/anim2.dds"  }
-	anime3 = {	texturefile = "gfx/models/portraits/anime/anim3.dds"  }
-	anime4 = {	texturefile = "gfx/models/portraits/anime/anim4.dds"  }
-	anime5 = {	texturefile = "gfx/models/portraits/anime/anim5.dds"  }
-	anime6 = {	texturefile = "gfx/models/portraits/anime/anim6.dds"  }
-	anime7 = {	texturefile = "gfx/models/portraits/anime/anim7.dds"  }
-	anime8 = {	texturefile = "gfx/models/portraits/anime/anim8.dds"  }
-	anime9 = {	texturefile = "gfx/models/portraits/anime/anim9.dds"  }
-	anime10 = {	texturefile = "gfx/models/portraits/anime/anim10.dds"  }
-	anime11 = {	texturefile = "gfx/models/portraits/anime/anim11.dds"  }
-	anime12 = {	texturefile = "gfx/models/portraits/anime/anim12.dds"  }
-	anime13 = {	texturefile = "gfx/models/portraits/anime/anim13.dds"  }
-	anime14 = {	texturefile = "gfx/models/portraits/anime/anim14.dds"  }
-	anime15 = {	texturefile = "gfx/models/portraits/anime/anim15.dds"  }
-	anime16 = {	texturefile = "gfx/models/portraits/anime/anim16.dds"  }
-	anime17 = {	texturefile = "gfx/models/portraits/anime/anim17.dds"  }
-	anime18 = {	texturefile = "gfx/models/portraits/anime/anim18.dds"  }
-	anime19 = {	texturefile = "gfx/models/portraits/anime/anim19.dds"  }
-	anime20 = {	texturefile = "gfx/models/portraits/anime/anim20.dds"  }
-	anime21 = {	texturefile = "gfx/models/portraits/anime/anim21.dds"  }
-	anime22 = {	texturefile = "gfx/models/portraits/anime/anim22.dds"  }
-	anime23 = {	texturefile = "gfx/models/portraits/anime/anim23.dds"  }
-	anime24 = {	texturefile = "gfx/models/portraits/anime/anim24.dds"  }
-	anime25 = {	texturefile = "gfx/models/portraits/anime/anim25.dds"  }
-	anime26 = {	texturefile = "gfx/models/portraits/anime/anim26.dds"  }
-	anime27 = {	texturefile = "gfx/models/portraits/anime/anim27.dds"  }
-	anime28 = {	texturefile = "gfx/models/portraits/anime/anim28.dds"  }
-	anime29 = {	texturefile = "gfx/models/portraits/anime/anim29.dds"  }
-	anime30 = {	texturefile = "gfx/models/portraits/anime/anim30.dds"  }
-	anime31 = {	texturefile = "gfx/models/portraits/anime/anim31.dds"  }
-	anime32 = {	texturefile = "gfx/models/portraits/anime/anim32.dds"  }
-	anime33 = {	texturefile = "gfx/models/portraits/anime/anim33.dds"  }
-	anime34 = {	texturefile = "gfx/models/portraits/anime/anim34.dds"  }
-	anime35 = {	texturefile = "gfx/models/portraits/anime/anim35.dds"  }
-	anime36 = {	texturefile = "gfx/models/portraits/anime/anim36.dds"  }
-	anime37 = {	texturefile = "gfx/models/portraits/anime/anim37.dds"  }
-	anime38 = {	texturefile = "gfx/models/portraits/anime/anim38.dds"  }
-	anime39 = {	texturefile = "gfx/models/portraits/anime/anim39.dds"  }
-	anime40 = {	texturefile = "gfx/models/portraits/anime/anim40.dds"  }
-	anime41 = {	texturefile = "gfx/models/portraits/anime/anim41.dds"  }
-	anime42 = {	texturefile = "gfx/models/portraits/anime/anim42.dds"  }
-	anime43 = {	texturefile = "gfx/models/portraits/anime/anim43.dds"  }
-	anime44 = {	texturefile = "gfx/models/portraits/anime/anim44.dds"  }
-	anime45 = {	texturefile = "gfx/models/portraits/anime/anim45.dds"  }
-	anime46 = {	texturefile = "gfx/models/portraits/anime/anim46.dds"  }
-	anime47 = {	texturefile = "gfx/models/portraits/anime/anim47.dds"  }
-	anime48 = {	texturefile = "gfx/models/portraits/anime/anim48.dds"  }
-	anime49 = {	texturefile = "gfx/models/portraits/anime/anim49.dds"  }
-	anime50 = {	texturefile = "gfx/models/portraits/anime/anim50.dds"  }
-	anime51 = {	texturefile = "gfx/models/portraits/anime/anim51.dds"  }
-	anime52 = {	texturefile = "gfx/models/portraits/anime/anim52.dds"  }
-	anime53 = {	texturefile = "gfx/models/portraits/anime/anim53.dds"  }
+	rick1 = {	texturefile = "gfx/models/portraits/rick/anim1.dds"  }
+	rick2 = {	texturefile = "gfx/models/portraits/rick/anim2.dds"  }
+	rick3 = {	texturefile = "gfx/models/portraits/rick/anim3.dds"  }
+	rick4 = {	texturefile = "gfx/models/portraits/rick/anim4.dds"  }
+	rick5 = {	texturefile = "gfx/models/portraits/rick/anim5.dds"  }
+	rick6 = {	texturefile = "gfx/models/portraits/rick/anim6.dds"  }
+	rick7 = {	texturefile = "gfx/models/portraits/rick/anim7.dds"  }
+	rick8 = {	texturefile = "gfx/models/portraits/rick/anim8.dds"  }
+	rick9 = {	texturefile = "gfx/models/portraits/rick/anim9.dds"  }
+	rick10 = {	texturefile = "gfx/models/portraits/rick/anim10.dds"  }
+	rick11 = {	texturefile = "gfx/models/portraits/rick/anim11.dds"  }
+	rick12 = {	texturefile = "gfx/models/portraits/rick/anim12.dds"  }
+	rick13 = {	texturefile = "gfx/models/portraits/rick/anim13.dds"  }
+	rick14 = {	texturefile = "gfx/models/portraits/rick/anim14.dds"  }
+	rick15 = {	texturefile = "gfx/models/portraits/rick/anim15.dds"  }
+	rick16 = {	texturefile = "gfx/models/portraits/rick/anim16.dds"  }
+	rick17 = {	texturefile = "gfx/models/portraits/rick/anim17.dds"  }
+	rick18 = {	texturefile = "gfx/models/portraits/rick/anim18.dds"  }
+	rick19 = {	texturefile = "gfx/models/portraits/rick/anim19.dds"  }
+	rick20 = {	texturefile = "gfx/models/portraits/rick/anim20.dds"  }
+	rick21 = {	texturefile = "gfx/models/portraits/rick/anim21.dds"  }
+	rick22 = {	texturefile = "gfx/models/portraits/rick/anim22.dds"  }
+	rick23 = {	texturefile = "gfx/models/portraits/rick/anim23.dds"  }
+	rick24 = {	texturefile = "gfx/models/portraits/rick/anim24.dds"  }
+	rick25 = {	texturefile = "gfx/models/portraits/rick/anim25.dds"  }
+	rick26 = {	texturefile = "gfx/models/portraits/rick/anim26.dds"  }
+	rick27 = {	texturefile = "gfx/models/portraits/rick/anim27.dds"  }
+	rick28 = {	texturefile = "gfx/models/portraits/rick/anim28.dds"  }
+	rick29 = {	texturefile = "gfx/models/portraits/rick/anim29.dds"  }
+	rick30 = {	texturefile = "gfx/models/portraits/rick/anim30.dds"  }
+	rick31 = {	texturefile = "gfx/models/portraits/rick/anim31.dds"  }
+	rick32 = {	texturefile = "gfx/models/portraits/rick/anim32.dds"  }
+	rick33 = {	texturefile = "gfx/models/portraits/rick/anim33.dds"  }
+	rick34 = {	texturefile = "gfx/models/portraits/rick/anim34.dds"  }
+	rick35 = {	texturefile = "gfx/models/portraits/rick/anim35.dds"  }
+	rick36 = {	texturefile = "gfx/models/portraits/rick/anim36.dds"  }
+	rick37 = {	texturefile = "gfx/models/portraits/rick/anim37.dds"  }
+	rick38 = {	texturefile = "gfx/models/portraits/rick/anim38.dds"  }
+	rick39 = {	texturefile = "gfx/models/portraits/rick/anim39.dds"  }
+	rick40 = {	texturefile = "gfx/models/portraits/rick/anim40.dds"  }
+	rick41 = {	texturefile = "gfx/models/portraits/rick/anim41.dds"  }
+	rick42 = {	texturefile = "gfx/models/portraits/rick/anim42.dds"  }
+	rick43 = {	texturefile = "gfx/models/portraits/rick/anim43.dds"  }
+	rick44 = {	texturefile = "gfx/models/portraits/rick/anim44.dds"  }
+	rick45 = {	texturefile = "gfx/models/portraits/rick/anim45.dds"  }
+	rick46 = {	texturefile = "gfx/models/portraits/rick/anim46.dds"  }
+	rick47 = {	texturefile = "gfx/models/portraits/rick/anim47.dds"  }
+	rick48 = {	texturefile = "gfx/models/portraits/rick/anim48.dds"  }
+	rick49 = {	texturefile = "gfx/models/portraits/rick/anim49.dds"  }
+	rick50 = {	texturefile = "gfx/models/portraits/rick/anim50.dds"  }
+	rick51 = {	texturefile = "gfx/models/portraits/rick/anim51.dds"  }
+	rick52 = {	texturefile = "gfx/models/portraits/rick/anim52.dds"  }
+	rick53 = {	texturefile = "gfx/models/portraits/rick/anim53.dds"  }
 }
 
 
 portrait_groups = {
 
 
-	anime = {
-		default = anime1
+	rick = {
+		default = rick1
 		game_setup = { #will run with a limited country scope. species and government is set but the country does not actually exist
 			add = {
 				portraits = {
 
-					anime1
-					anime2
-					anime3
-					anime4
-					anime5
-					anime6
-					anime7
-					anime8
-					anime9
-					anime10
-					anime11
-					anime12
-					anime13
-					anime14
-					anime15
-					anime16
-					anime17
-					anime18
-					anime19
-					anime20
-					anime21
-					anime22
-					anime23
-					anime24
-					anime25
-					anime26
-					anime27
-					anime28
-					anime29
-					anime30
-					anime31
-					anime32
-					anime33
-					anime34
-					anime35
-					anime36
-					anime37
-					anime38
-					anime39
-					anime40
-					anime41
-					anime42
-					anime43
-					anime44
-					anime45
-					anime46
-					anime47
-					anime48
-					anime49
-					anime50
-					anime51
-					anime52
-					anime53
+					rick1
+					rick2
+					rick3
+					rick4
+					rick5
+					rick6
+					rick7
+					rick8
+					rick9
+					rick10
+					rick11
+					rick12
+					rick13
+					rick14
+					rick15
+					rick16
+					rick17
+					rick18
+					rick19
+					rick20
+					rick21
+					rick22
+					rick23
+					rick24
+					rick25
+					rick26
+					rick27
+					rick28
+					rick29
+					rick30
+					rick31
+					rick32
+					rick33
+					rick34
+					rick35
+					rick36
+					rick37
+					rick38
+					rick39
+					rick40
+					rick41
+					rick42
+					rick43
+					rick44
+					rick45
+					rick46
+					rick47
+					rick48
+					rick49
+					rick50
+					rick51
+					rick52
+					rick53
 				}
 			}
 
@@ -127,59 +127,59 @@ portrait_groups = {
 			add = {
 				portraits = {
 
-					anime1
-					anime2
-					anime3
-					anime4
-					anime5
-					anime6
-					anime7
-					anime8
-					anime9
-					anime10
-					anime11
-					anime12
-					anime13
-					anime14
-					anime15
-					anime16
-					anime17
-					anime18
-					anime19
-					anime20
-					anime21
-					anime22
-					anime23
-					anime24
-					anime25
-					anime26
-					anime27
-					anime28
-					anime29
-					anime30
-					anime31
-					anime32
-					anime33
-					anime34
-					anime35
-					anime36
-					anime37
-					anime38
-					anime39
-					anime40
-					anime41
-					anime42
-					anime43
-					anime44
-					anime45
-					anime46
-					anime47
-					anime48
-					anime49
-					anime50
-					anime51
-					anime52
-					anime53
+					rick1
+					rick2
+					rick3
+					rick4
+					rick5
+					rick6
+					rick7
+					rick8
+					rick9
+					rick10
+					rick11
+					rick12
+					rick13
+					rick14
+					rick15
+					rick16
+					rick17
+					rick18
+					rick19
+					rick20
+					rick21
+					rick22
+					rick23
+					rick24
+					rick25
+					rick26
+					rick27
+					rick28
+					rick29
+					rick30
+					rick31
+					rick32
+					rick33
+					rick34
+					rick35
+					rick36
+					rick37
+					rick38
+					rick39
+					rick40
+					rick41
+					rick42
+					rick43
+					rick44
+					rick45
+					rick46
+					rick47
+					rick48
+					rick49
+					rick50
+					rick51
+					rick52
+					rick53
 				}
 			}
 
@@ -189,59 +189,59 @@ portrait_groups = {
 			add = {
 				portraits = {
 
-					anime1
-					anime2
-					anime3
-					anime4
-					anime5
-					anime6
-					anime7
-					anime8
-					anime9
-					anime10
-					anime11
-					anime12
-					anime13
-					anime14
-					anime15
-					anime16
-					anime17
-					anime18
-					anime19
-					anime20
-					anime21
-					anime22
-					anime23
-					anime24
-					anime25
-					anime26
-					anime27
-					anime28
-					anime29
-					anime30
-					anime31
-					anime32
-					anime33
-					anime34
-					anime35
-					anime36
-					anime37
-					anime38
-					anime39
-					anime40
-					anime41
-					anime42
-					anime43
-					anime44
-					anime45
-					anime46
-					anime47
-					anime48
-					anime49
-					anime50
-					anime51
-					anime52
-					anime53
+					rick1
+					rick2
+					rick3
+					rick4
+					rick5
+					rick6
+					rick7
+					rick8
+					rick9
+					rick10
+					rick11
+					rick12
+					rick13
+					rick14
+					rick15
+					rick16
+					rick17
+					rick18
+					rick19
+					rick20
+					rick21
+					rick22
+					rick23
+					rick24
+					rick25
+					rick26
+					rick27
+					rick28
+					rick29
+					rick30
+					rick31
+					rick32
+					rick33
+					rick34
+					rick35
+					rick36
+					rick37
+					rick38
+					rick39
+					rick40
+					rick41
+					rick42
+					rick43
+					rick44
+					rick45
+					rick46
+					rick47
+					rick48
+					rick49
+					rick50
+					rick51
+					rick52
+					rick53
 				}
 			}
 
@@ -250,51 +250,51 @@ portrait_groups = {
 		leader = { #scientists, generals, admirals, governor
 			add = {
 				portraits = {
-					anime1
-					anime5
-					anime7
-					anime9
-					anime11
-					anime13
-					anime14
-					anime15
-					anime16
-					anime17
-					anime18
-					anime19
-					anime20
-					anime21
-					anime22
-					anime23
-					anime24
-					anime25
-					anime26
-					anime27
-					anime28
-					anime29
-					anime30
-					anime31
-					anime33
-					anime34
-					anime35
-					anime36
-					anime37
-					anime38
-					anime39
-					anime40
-					anime41
-					anime42
-					anime43
-					anime44
-					anime45
-					anime46
-					anime47
-					anime48
-					anime49
-					anime50
-					anime51
-					anime52
-					anime53
+					rick1
+					rick5
+					rick7
+					rick9
+					rick11
+					rick13
+					rick14
+					rick15
+					rick16
+					rick17
+					rick18
+					rick19
+					rick20
+					rick21
+					rick22
+					rick23
+					rick24
+					rick25
+					rick26
+					rick27
+					rick28
+					rick29
+					rick30
+					rick31
+					rick33
+					rick34
+					rick35
+					rick36
+					rick37
+					rick38
+					rick39
+					rick40
+					rick41
+					rick42
+					rick43
+					rick44
+					rick45
+					rick46
+					rick47
+					rick48
+					rick49
+					rick50
+					rick51
+					rick52
+					rick53
 				}
 			}
 
@@ -303,45 +303,45 @@ portrait_groups = {
 		ruler = {
 			add = {
 				portraits = {
-					anime1
-					anime2
-					anime5
-					anime8
-					anime9
-					anime17
-					anime20
-					anime21
-					anime22
-					anime23
-					anime24
-					anime25
-					anime26
-					anime27
-					anime28
-					anime29
-					anime30
-					anime31
-					anime33
-					anime34
-					anime35
-					anime36
-					anime37
-					anime38
-					anime39
-					anime40
-					anime41
-					anime42
-					anime43
-					anime44
-					anime45
-					anime46
-					anime47
-					anime48
-					anime49
-					anime50
-					anime51
-					anime52
-					anime53
+					rick1
+					rick2
+					rick5
+					rick8
+					rick9
+					rick17
+					rick20
+					rick21
+					rick22
+					rick23
+					rick24
+					rick25
+					rick26
+					rick27
+					rick28
+					rick29
+					rick30
+					rick31
+					rick33
+					rick34
+					rick35
+					rick36
+					rick37
+					rick38
+					rick39
+					rick40
+					rick41
+					rick42
+					rick43
+					rick44
+					rick45
+					rick46
+					rick47
+					rick48
+					rick49
+					rick50
+					rick51
+					rick52
+					rick53
 				}
 			}
 
