@@ -1,0 +1,24 @@
+﻿l_english:
+
+ ####################################
+ # Species Classes
+ ####################################
+ 
+ name_list_Rick: "The Council of Ricks"
+ 
+ COR:0 "Rick"
+ COR_desc:1 "Species Class has no effect on your Empire, but Ricks may consider other Ricks to be less alien than other Species Classes."
+ COR_plural:0 "Ricks"
+ COR_insult_01:0 "Morty"
+ COR_insult_plural_01:0 "Mortys"
+ COR_compliment_01:0 "genius"
+ COR_compliment_plural_01:0 "geniuses"
+ COR_spawn:0 "tiny Rick"
+ COR_spawn_plural:0 "tiny Ricks"
+ COR_sound_01:0 "ranting"
+ COR_sound_02:0 "burping"
+ COR_sound_03:0 "drooling"
+ COR_sound_04:0 "shouting"
+ COR_sound_05:0 "yelling"
+ COR_organ:0 "stomach"
+ COR_mouth:0 "mouth"

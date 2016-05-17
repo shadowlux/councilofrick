@@ -1,0 +1,126 @@
+music = {
+	name = "maintheme"
+	file = "rick_theme.ogg"
+	volume = 0.68
+}
+
+music = {
+	name = "thebirthofastar"
+	file = "thebirthofastar.ogg"
+	volume = 0.62
+}
+
+music = {
+	name = "gravitationalconstant"
+	file = "gravitationalconstant.ogg"
+	volume = 0.62
+}
+
+music = {
+	name = "sigmatauri"
+	file = "sigmatauri.ogg"
+	volume = 0.62
+}
+
+music = {
+	name = "luminescence"
+	file = "luminescence_endcredits.ogg"
+	volume = 0.62
+}
+
+music = {
+	name = "spatiallullaby"
+	file = "spatiallullaby.ogg"
+	volume = 0.62
+}
+
+music = {
+	name = "genesis"
+	file = "genesis.ogg"
+	volume = 0.62
+}
+
+music = {
+	name = "distantnebula"
+	file = "distantnebula.ogg"
+	volume = 0.62
+}
+
+music = {
+	name = "insearchoflife"
+	file = "insearchoflife.ogg"
+	volume = 0.57
+}
+
+
+music = {
+	name = "journeythroughthegalaxy"
+	file = "journeythroughthegalaxy.ogg"
+	volume = 0.62
+}
+
+music = {
+	name = "fasterthanlight"
+	file = "fasterthanlight.ogg"
+	volume = 0.57
+}
+
+music = {
+	name = "thecelestialcity"
+	file = "thecelestialcity.ogg"
+	volume = 0.57
+}
+
+music = {
+	name = "infinitebeing"
+	file = "infinitebeing.ogg"
+	volume = 0.57
+}
+
+music = {
+	name = "totheendsofthegalaxy"
+	file = "totheendsofthegalaxy.ogg"
+	volume = 0.62
+}
+
+music = {
+	name = "alphacentauri"
+	file = "alphacentauri.ogg"
+	volume = 0.62
+}
+
+music = {
+	name = "pillarsofcreation"
+	file = "pillarsofcreation.ogg"
+	volume = 0.62
+}
+
+music = {
+	name = "deepspacetravels"
+	file = "deepspacetravels.ogg"
+	volume = 0.57
+}
+
+music = {
+	name = "ridingthesolarwind"
+	file = "ridingthesolarwind.ogg"
+	volume = 0.57
+}
+
+music = {
+	name = "rick_getschwifty"
+	file = "rick_getschwifty.ogg"
+	volume = 0.57
+}
+
+music = {
+	name = "rick_moonmen"
+	file = "rick_moonmen.ogg"
+	volume = 0.57
+}
+
+music = {
+	name = "rick_chamber"
+	file = "rick_chamber.ogg"
+	volume = 0.57
+}

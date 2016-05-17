@@ -1,0 +1,67 @@
+councilofricks = {
+	name = "The Council of Ricks"
+	spawn_enabled = yes # yes / no / always
+	
+	name_list = "Rick"
+	ship_prefix = "TST"
+	
+	species_name = "Rick"
+	species_plural = "Ricks"	#we should localize this!
+	species_adjective = "Rick"
+	species_class = "COR"
+	trait = "trait_intelligent"
+	trait = "trait_conformists"	
+	trait = "trait_decadent"
+	trait = "trait_repugnant"
+	portrait = "anime"
+	adjective = "Rick"
+	
+	government = "science_directorate"
+	ethic = "ethic_collectivist"
+	ethic = "ethic_materialist"
+	ethic = "ethic_militarist"
+
+	flags = { human_1 custom_start_screen }
+	
+	weapon = "tech_lasers_1"
+	ftl = wormhole
+	
+	planet_name = "Citadel of Ricks"
+	planet_class = "pc_continental"
+	system_name = "Rickspace"
+	
+	graphical_culture = "mammalian_01"
+	city_graphical_culture = "mammalian_01"
+	
+	empire_flag = {
+		icon= {
+			category = "council_of_ricks"
+			file = "council_of_ricks_logo.dds"
+		}
+		background= {
+			category = "backgrounds"
+			file = "00_solid.dds"
+		}
+		colors={
+			"blue"
+			"black"
+			"null"
+			"null"
+		}
+	}
+	#leader = {
+	#	name = "Rick Sanchez"
+	#	class = ruler
+	#	portrait = "anime1"
+	#	experience = 1200.0
+	#}
+	
+	ruler = {
+		name = "Rick Sanchez"
+		gender = male
+		portrait = "anime1"
+		texture = 0
+		hair = 0
+		clothes = 0
+	}
+}
