@@ -1,4 +1,4 @@
-councilofricks = {
+rickofricks = {
 	name = "The Council of Ricks"
 	spawn_enabled = yes # yes / no / always
 	
@@ -14,7 +14,7 @@ councilofricks = {
 	trait = "trait_decadent"
 	trait = "trait_repugnant"
 <<<<<<< HEAD
-	portrait = "council"
+	portrait = "rick"
 =======
 	portrait = "rick"
 >>>>>>> origin/master
@@ -57,7 +57,7 @@ councilofricks = {
 	#	name = "Rick Sanchez"
 	#	class = ruler
 <<<<<<< HEAD
-	#	portrait = "council1"
+	#	portrait = "rick1"
 =======
 	#	portrait = "rick1"
 >>>>>>> origin/master
@@ -68,7 +68,7 @@ councilofricks = {
 		name = "Rick Sanchez"
 		gender = male
 <<<<<<< HEAD
-		portrait = "council1"
+		portrait = "rick1"
 =======
 		portrait = "rick1"
 >>>>>>> origin/master

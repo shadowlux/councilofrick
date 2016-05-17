@@ -1,61 +1,5 @@
 portraits = {
 
-<<<<<<< HEAD
-	council1 = {	texturefile = "gfx/models/portraits/council/council1.dds"  }
-	council2 = {	texturefile = "gfx/models/portraits/council/council2.dds"  }
-	council3 = {	texturefile = "gfx/models/portraits/council/council3.dds"  }
-	council4 = {	texturefile = "gfx/models/portraits/council/council4.dds"  }
-	council5 = {	texturefile = "gfx/models/portraits/council/council5.dds"  }
-	council6 = {	texturefile = "gfx/models/portraits/council/council6.dds"  }
-	council7 = {	texturefile = "gfx/models/portraits/council/council7.dds"  }
-	council8 = {	texturefile = "gfx/models/portraits/council/council8.dds"  }
-	council9 = {	texturefile = "gfx/models/portraits/council/council9.dds"  }
-	council10 = {	texturefile = "gfx/models/portraits/council/council10.dds"  }
-	council11 = {	texturefile = "gfx/models/portraits/council/council11.dds"  }
-	council12 = {	texturefile = "gfx/models/portraits/council/council12.dds"  }
-	council13 = {	texturefile = "gfx/models/portraits/council/council13.dds"  }
-	council14 = {	texturefile = "gfx/models/portraits/council/council14.dds"  }
-	council15 = {	texturefile = "gfx/models/portraits/council/council15.dds"  }
-	council16 = {	texturefile = "gfx/models/portraits/council/council16.dds"  }
-	council17 = {	texturefile = "gfx/models/portraits/council/council17.dds"  }
-	council18 = {	texturefile = "gfx/models/portraits/council/council18.dds"  }
-	council19 = {	texturefile = "gfx/models/portraits/council/council19.dds"  }
-	council20 = {	texturefile = "gfx/models/portraits/council/council20.dds"  }
-	council21 = {	texturefile = "gfx/models/portraits/council/council21.dds"  }
-	council22 = {	texturefile = "gfx/models/portraits/council/council22.dds"  }
-	council23 = {	texturefile = "gfx/models/portraits/council/council23.dds"  }
-	council24 = {	texturefile = "gfx/models/portraits/council/council24.dds"  }
-	council25 = {	texturefile = "gfx/models/portraits/council/council25.dds"  }
-	council26 = {	texturefile = "gfx/models/portraits/council/council26.dds"  }
-	council27 = {	texturefile = "gfx/models/portraits/council/council27.dds"  }
-	council28 = {	texturefile = "gfx/models/portraits/council/council28.dds"  }
-	council29 = {	texturefile = "gfx/models/portraits/council/council29.dds"  }
-	council30 = {	texturefile = "gfx/models/portraits/council/council30.dds"  }
-	council31 = {	texturefile = "gfx/models/portraits/council/council31.dds"  }
-	council32 = {	texturefile = "gfx/models/portraits/council/council32.dds"  }
-	council33 = {	texturefile = "gfx/models/portraits/council/council33.dds"  }
-	council34 = {	texturefile = "gfx/models/portraits/council/council34.dds"  }
-	council35 = {	texturefile = "gfx/models/portraits/council/council35.dds"  }
-	council36 = {	texturefile = "gfx/models/portraits/council/council36.dds"  }
-	council37 = {	texturefile = "gfx/models/portraits/council/council37.dds"  }
-	council38 = {	texturefile = "gfx/models/portraits/council/council38.dds"  }
-	council39 = {	texturefile = "gfx/models/portraits/council/council39.dds"  }
-	council40 = {	texturefile = "gfx/models/portraits/council/council40.dds"  }
-	council41 = {	texturefile = "gfx/models/portraits/council/council41.dds"  }
-	council42 = {	texturefile = "gfx/models/portraits/council/council42.dds"  }
-	council43 = {	texturefile = "gfx/models/portraits/council/council43.dds"  }
-	council44 = {	texturefile = "gfx/models/portraits/council/council44.dds"  }
-	council45 = {	texturefile = "gfx/models/portraits/council/council45.dds"  }
-	council46 = {	texturefile = "gfx/models/portraits/council/council46.dds"  }
-	council47 = {	texturefile = "gfx/models/portraits/council/council47.dds"  }
-	council48 = {	texturefile = "gfx/models/portraits/council/council48.dds"  }
-	council49 = {	texturefile = "gfx/models/portraits/council/council49.dds"  }
-	council50 = {	texturefile = "gfx/models/portraits/council/council50.dds"  }
-	council51 = {	texturefile = "gfx/models/portraits/council/council51.dds"  }
-	council52 = {	texturefile = "gfx/models/portraits/council/council52.dds"  }
-	council53 = {	texturefile = "gfx/models/portraits/council/council53.dds"  }
-	council54 = {	texturefile = "gfx/models/portraits/council/council54.dds"  }
-=======
 	rick1 = {	texturefile = "gfx/models/portraits/rick/anim1.dds"  }
 	rick2 = {	texturefile = "gfx/models/portraits/rick/anim2.dds"  }
 	rick3 = {	texturefile = "gfx/models/portraits/rick/anim3.dds"  }
@@ -109,79 +53,18 @@ portraits = {
 	rick51 = {	texturefile = "gfx/models/portraits/rick/anim51.dds"  }
 	rick52 = {	texturefile = "gfx/models/portraits/rick/anim52.dds"  }
 	rick53 = {	texturefile = "gfx/models/portraits/rick/anim53.dds"  }
->>>>>>> origin/master
 }
 
 
 portrait_groups = {
 
 
-<<<<<<< HEAD
-	council = {
-		default = council1
-=======
 	rick = {
 		default = rick1
->>>>>>> origin/master
 		game_setup = { #will run with a limited country scope. species and government is set but the country does not actually exist
 			add = {
 				portraits = {
 
-<<<<<<< HEAD
-					council1
-					council2
-					council3
-					council4
-					council5
-					council6
-					council7
-					council8
-					council9
-					council10
-					council11
-					council12
-					council13
-					council14
-					council15
-					council16
-					council17
-					council18
-					council19
-					council20
-					council21
-					council22
-					council23
-					council24
-					council25
-					council26
-					council27
-					council28
-					council29
-					council30
-					council31
-					council32
-					council33
-					council34
-					council35
-					council36
-					council37
-					council38
-					council39
-					council40
-					council41
-					council42
-					council43
-					council44
-					council45
-					council46
-					council47
-					council48
-					council49
-					council50
-					council51
-					council52
-					council53
-=======
 					rick1
 					rick2
 					rick3
@@ -235,7 +118,6 @@ portrait_groups = {
 					rick51
 					rick52
 					rick53
->>>>>>> origin/master
 				}
 			}
 
@@ -245,61 +127,6 @@ portrait_groups = {
 			add = {
 				portraits = {
 
-<<<<<<< HEAD
-					council1
-					council2
-					council3
-					council4
-					council5
-					council6
-					council7
-					council8
-					council9
-					council10
-					council11
-					council12
-					council13
-					council14
-					council15
-					council16
-					council17
-					council18
-					council19
-					council20
-					council21
-					council22
-					council23
-					council24
-					council25
-					council26
-					council27
-					council28
-					council29
-					council30
-					council31
-					council32
-					council33
-					council34
-					council35
-					council36
-					council37
-					council38
-					council39
-					council40
-					council41
-					council42
-					council43
-					council44
-					council45
-					council46
-					council47
-					council48
-					council49
-					council50
-					council51
-					council52
-					council53
-=======
 					rick1
 					rick2
 					rick3
@@ -353,7 +180,6 @@ portrait_groups = {
 					rick51
 					rick52
 					rick53
->>>>>>> origin/master
 				}
 			}
 
@@ -363,61 +189,6 @@ portrait_groups = {
 			add = {
 				portraits = {
 
-<<<<<<< HEAD
-					council1
-					council2
-					council3
-					council4
-					council5
-					council6
-					council7
-					council8
-					council9
-					council10
-					council11
-					council12
-					council13
-					council14
-					council15
-					council16
-					council17
-					council18
-					council19
-					council20
-					council21
-					council22
-					council23
-					council24
-					council25
-					council26
-					council27
-					council28
-					council29
-					council30
-					council31
-					council32
-					council33
-					council34
-					council35
-					council36
-					council37
-					council38
-					council39
-					council40
-					council41
-					council42
-					council43
-					council44
-					council45
-					council46
-					council47
-					council48
-					council49
-					council50
-					council51
-					council52
-					council53
-=======
 					rick1
 					rick2
 					rick3
@@ -471,7 +242,6 @@ portrait_groups = {
 					rick51
 					rick52
 					rick53
->>>>>>> origin/master
 				}
 			}
 
@@ -480,53 +250,6 @@ portrait_groups = {
 		leader = { #scientists, generals, admirals, governor
 			add = {
 				portraits = {
-<<<<<<< HEAD
-					council1
-					council5
-					council7
-					council9
-					council11
-					council13
-					council14
-					council15
-					council16
-					council17
-					council18
-					council19
-					council20
-					council21
-					council22
-					council23
-					council24
-					council25
-					council26
-					council27
-					council28
-					council29
-					council30
-					council31
-					council33
-					council34
-					council35
-					council36
-					council37
-					council38
-					council39
-					council40
-					council41
-					council42
-					council43
-					council44
-					council45
-					council46
-					council47
-					council48
-					council49
-					council50
-					council51
-					council52
-					council53
-=======
 					rick1
 					rick5
 					rick7
@@ -572,7 +295,6 @@ portrait_groups = {
 					rick51
 					rick52
 					rick53
->>>>>>> origin/master
 				}
 			}
 
@@ -581,47 +303,6 @@ portrait_groups = {
 		ruler = {
 			add = {
 				portraits = {
-<<<<<<< HEAD
-					council1
-					council2
-					council5
-					council8
-					council9
-					council17
-					council20
-					council21
-					council22
-					council23
-					council24
-					council25
-					council26
-					council27
-					council28
-					council29
-					council30
-					council31
-					council33
-					council34
-					council35
-					council36
-					council37
-					council38
-					council39
-					council40
-					council41
-					council42
-					council43
-					council44
-					council45
-					council46
-					council47
-					council48
-					council49
-					council50
-					council51
-					council52
-					council53
-=======
 					rick1
 					rick2
 					rick5
@@ -661,7 +342,6 @@ portrait_groups = {
 					rick51
 					rick52
 					rick53
->>>>>>> origin/master
 				}
 			}
 
