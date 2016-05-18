@@ -65,7 +65,7 @@ councilofricks = {
 	#}
 	
 	ruler = {
-		name = "Zeta Alpha Rick"
+		name = "Riq IV"
 		gender = male
 <<<<<<< HEAD
 		portrait = "rick1"
