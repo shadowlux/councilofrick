@@ -68,9 +68,9 @@ councilofricks = {
 		name = "Riq IV"
 		gender = male
 <<<<<<< HEAD
-		portrait = "rick1"
+		portrait = "rick49"
 =======
-		portrait = "rick1"
+		portrait = "rick49"
 >>>>>>> origin/master
 		texture = 0
 		hair = 0
