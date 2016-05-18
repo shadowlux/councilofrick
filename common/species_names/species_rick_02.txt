@@ -1,0 +1,10 @@
+### RICKS
+
+COR = {
+	councilofricks = {
+		name = "The Council of Ricks"
+		plural = "Ricks"
+		home_planet = "Citadel of Ricks"
+		home_system = "Rickspace"
+		name_list = "Rick"
+	}
