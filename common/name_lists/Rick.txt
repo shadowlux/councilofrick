@@ -2,7 +2,7 @@
 ### Created by Benjamin "Inventex" Easterbrook
 
 
-Cou = {
+Rick = {
    selectable = yes
 
 ship_names = {
@@ -89,63 +89,63 @@ ship_names = {
 
          fleet_names = {
             random_names = {
-          "" "Rick Omega Fleet" "Rick Cyclone Fleet" "Rick Upsilon Fleet" "Rick Cosmic Fleet" "Rick Pyrex Fleet" "Rick Feral Fleet" "Rick Zeta Fleet" "Rick Paragon Fleet" "Rick Chi Fleet" "Rick Void Fleet" "Rick Omicron Fleet" "Rick Gamma Fleet" "Rick Prime Fleet" "Rick Prime Fleet" "Rick Omicron Fleet" "Rick Delta Fleet" "Rick Venom Fleet" "Rick Void Fleet" "Rick Theta Fleet" "Rick Venom Fleet" "Rick Cyclone Fleet" "Rick Ichor Fleet" "Rick Paragon Fleet" "Rick Sigma Fleet" "Rick Eon Fleet" "Rick Delta Fleet" "Rick Alpha Fleet" "Rick Upsilon Fleet" "Rick Quantum Fleet" "Rick Fission Fleet" "Rick Fission Fleet" "Rick Sigma Fleet" "Rick Eta Fleet" "Rick Sigma Fleet" "Rick Cosmic Fleet" "Rick Vortex Fleet" "Rick Oblivion Fleet" "Rick Gamma Fleet" "Rick Fission Fleet" "Rick Upsilon Fleet" }
-         sequential_name = "%O% Rick Fleet"
+          "Rick Omega Fleet" "Rick Cyclone Fleet" "Rick Upsilon Fleet" "Rick Cosmic Fleet" "Rick Pyrex Fleet" "Rick Feral Fleet" "Rick Zeta Fleet" "Rick Paragon Fleet" "Rick Chi Fleet" "Rick Void Fleet" "Rick Omicron Fleet" "Rick Gamma Fleet" "Rick Prime Fleet" "Rick Prime Fleet" "Rick Omicron Fleet" "Rick Delta Fleet" "Rick Venom Fleet" "Rick Void Fleet" "Rick Theta Fleet" "Rick Venom Fleet" "Rick Cyclone Fleet" "Rick Ichor Fleet" "Rick Paragon Fleet" "Rick Sigma Fleet" "Rick Eon Fleet" "Rick Delta Fleet" "Rick Alpha Fleet" "Rick Upsilon Fleet" "Rick Quantum Fleet" "Rick Fission Fleet" "Rick Fission Fleet" "Rick Sigma Fleet" "Rick Eta Fleet" "Rick Sigma Fleet" "Rick Cosmic Fleet" "Rick Vortex Fleet" "Rick Oblivion Fleet" "Rick Gamma Fleet" "Rick Fission Fleet" "Rick Upsilon Fleet" }
+         sequential_name =
             }
 
       army_names = {
          defense_army = {
             random_names = {
           "Defense Ricks" }
-         sequential_name = "%O% Defense Ricks"
+         sequential_name =
             }
 
          assault_army = {
             random_names = {
           "Assault Ricks" }
-         sequential_name = "%O% Assualt Ricks"
+         sequential_name =
             }
 
          slave_army = {
             random_names = {
           "Rick Slaves" }
-         sequential_name = "%O% Rick Slaves"
+         sequential_name =
             }
 
          clone_army = {
             random_names = {
           }
-         sequential_name = "%O% Rick Clones"
+         sequential_name =
             }
 
          robotic_army = {
             random_names = {
           "" }
-         sequential_name = "%O% Rickbots"
+         sequential_name =
             }
 
          android_army = {
             random_names = {
           }
-         sequential_name = "%O% Sentient Rickbots"
+         sequential_name =
             }
 
          psionic_army = {
             random_names = {
           "Psi Ricks" }
-         sequential_name = "%O% Psi Ricks"
+         sequential_name =
             }
 
          xenomorph_army = {
             random_names = {
-          "Z" }
-         sequential_name = "%O% Xeno Ricks"
+          "" }
+         sequential_name =
             }
 
          gene_warrior_army = {
             random_names = {
           "Genetically Modified Ricks" }
-         sequential_name = "%O% Enhanced Ricks"
+         sequential_name =
             }
 
    }      
