@@ -54,6 +54,108 @@ portraits = {
 	rick51 = {	texturefile = "gfx/models/portraits/rick/anim51.dds"  }
 	rick52 = {	texturefile = "gfx/models/portraits/rick/anim52.dds"  }
 	rick53 = {	texturefile = "gfx/models/portraits/rick/anim53.dds"  }
+	admiral1 = { texturefile = "gfx/models/portraits/admiral/admiral1.dds"}
+	admiral2 = { texturefile = "gfx/models/portraits/admiral/admiral2.dds"}
+	admiral3 = { texturefile = "gfx/models/portraits/admiral/admiral3.dds"}
+	admiral4 = { texturefile = "gfx/models/portraits/admiral/admiral4.dds"}
+	admiral5 = { texturefile = "gfx/models/portraits/admiral/admiral5.dds"}
+	admiral6 = { texturefile = "gfx/models/portraits/admiral/admiral6.dds"}
+	admiral7 = { texturefile = "gfx/models/portraits/admiral/admiral7.dds"}
+	admiral8 = { texturefile = "gfx/models/portraits/admiral/admiral8.dds"}
+	admiral9 = { texturefile = "gfx/models/portraits/admiral/admiral9.dds"}
+	admiral10 = { texturefile = "gfx/models/portraits/admiral/admiral10.dds"}
+	admiral11 = { texturefile = "gfx/models/portraits/admiral/admiral11.dds"}
+	admiral12 = { texturefile = "gfx/models/portraits/admiral/admiral12.dds"}
+	admiral13 = { texturefile = "gfx/models/portraits/admiral/admiral13.dds"}
+	admiral14 = { texturefile = "gfx/models/portraits/admiral/admiral14.dds"}
+	admiral15 = { texturefile = "gfx/models/portraits/admiral/admiral15.dds"}
+	admiral16 = { texturefile = "gfx/models/portraits/admiral/admiral16.dds"}
+	admiral17 = { texturefile = "gfx/models/portraits/admiral/admiral17.dds"}
+	admiral18 = { texturefile = "gfx/models/portraits/admiral/admiral18.dds"}
+	admiral19 = { texturefile = "gfx/models/portraits/admiral/admiral19.dds"}
+	admiral20 = { texturefile = "gfx/models/portraits/admiral/admiral20.dds"}
+	admiral21 = { texturefile = "gfx/models/portraits/admiral/admiral21.dds"}
+	admiral22 = { texturefile = "gfx/models/portraits/admiral/admiral22.dds"}
+	admiral23 = { texturefile = "gfx/models/portraits/admiral/admiral23.dds"}
+	admiral24 = { texturefile = "gfx/models/portraits/admiral/admiral24.dds"}
+	admiral25 = { texturefile = "gfx/models/portraits/admiral/admiral25.dds"}
+	admiral26 = { texturefile = "gfx/models/portraits/admiral/admiral26.dds"}
+	admiral27 = { texturefile = "gfx/models/portraits/admiral/admiral27.dds"}
+	admiral28 = { texturefile = "gfx/models/portraits/admiral/admiral28.dds"}
+	admiral29 = { texturefile = "gfx/models/portraits/admiral/admiral29.dds"}
+	admiral30 = { texturefile = "gfx/models/portraits/admiral/admiral30.dds"}
+	admiral31 = { texturefile = "gfx/models/portraits/admiral/admiral31.dds"}
+	admiral32 = { texturefile = "gfx/models/portraits/admiral/admiral32.dds"}
+	admiral33 = { texturefile = "gfx/models/portraits/admiral/admiral33.dds"}
+	admiral34 = { texturefile = "gfx/models/portraits/admiral/admiral34.dds"}
+	admiral35 = { texturefile = "gfx/models/portraits/admiral/admiral35.dds"}
+	admiral36 = { texturefile = "gfx/models/portraits/admiral/admiral36.dds"}
+	admiral37 = { texturefile = "gfx/models/portraits/admiral/admiral37.dds"}
+	admiral38 = { texturefile = "gfx/models/portraits/admiral/admiral38.dds"}
+	admiral39 = { texturefile = "gfx/models/portraits/admiral/admiral39.dds"}
+	admiral40 = { texturefile = "gfx/models/portraits/admiral/admiral40.dds"}
+	admiral41 = { texturefile = "gfx/models/portraits/admiral/admiral41.dds"}
+	admiral42 = { texturefile = "gfx/models/portraits/admiral/admiral42.dds"}
+	admiral43 = { texturefile = "gfx/models/portraits/admiral/admiral43.dds"}
+	admiral44 = { texturefile = "gfx/models/portraits/admiral/admiral44.dds"}
+	admiral45 = { texturefile = "gfx/models/portraits/admiral/admiral45.dds"}
+	science1 = { texturefile = "gfx/models/portraits/science/science1.dds"}
+	science2 = { texturefile = "gfx/models/portraits/science/science2.dds"}
+	science3 = { texturefile = "gfx/models/portraits/science/science3.dds"}
+	science4 = { texturefile = "gfx/models/portraits/science/science4.dds"}
+	science5 = { texturefile = "gfx/models/portraits/science/science5.dds"}
+	science6 = { texturefile = "gfx/models/portraits/science/science6.dds"}
+	science7 = { texturefile = "gfx/models/portraits/science/science7.dds"}
+	science8 = { texturefile = "gfx/models/portraits/science/science8.dds"}
+	science9 = { texturefile = "gfx/models/portraits/science/science9.dds"}
+	general1 = { texturefile = "gfx/models/portraits/general/alien1.dds"}
+	general2 = { texturefile = "gfx/models/portraits/general/alien2.dds"}
+	general3 = { texturefile = "gfx/models/portraits/general/alien3.dds"}
+	general4 = { texturefile = "gfx/models/portraits/general/alien4.dds"}
+	general5 = { texturefile = "gfx/models/portraits/general/alien5.dds"}
+	general6 = { texturefile = "gfx/models/portraits/general/alien6.dds"}
+	general7 = { texturefile = "gfx/models/portraits/general/alien7.dds"}
+	general8 = { texturefile = "gfx/models/portraits/general/alien8.dds"}
+	general9 = { texturefile = "gfx/models/portraits/general/alien9.dds"}
+	general10 = { texturefile = "gfx/models/portraits/general/alien10.dds"}
+	general11 = { texturefile = "gfx/models/portraits/general/alien11.dds"}
+	general12 = { texturefile = "gfx/models/portraits/general/alien12.dds"}
+	general13 = { texturefile = "gfx/models/portraits/general/alien13.dds"}
+	general14 = { texturefile = "gfx/models/portraits/general/alien14.dds"}
+	general15 = { texturefile = "gfx/models/portraits/general/alien15.dds"}
+	general16 = { texturefile = "gfx/models/portraits/general/alien16.dds"}
+	general17 = { texturefile = "gfx/models/portraits/general/alien17.dds"}
+	general18 = { texturefile = "gfx/models/portraits/general/alien18.dds"}
+	general19 = { texturefile = "gfx/models/portraits/general/alien19.dds"}
+	governor1 = { texturefile = "gfx/models/portraits/governor/governor1.dds"}
+	governor2 = { texturefile = "gfx/models/portraits/governor/governor2.dds"}
+	governor3 = { texturefile = "gfx/models/portraits/governor/governor3.dds"}
+	governor4 = { texturefile = "gfx/models/portraits/governor/governor4.dds"}
+	governor5 = { texturefile = "gfx/models/portraits/governor/governor5.dds"}
+	governor6 = { texturefile = "gfx/models/portraits/governor/governor6.dds"}
+	governor7 = { texturefile = "gfx/models/portraits/governor/governor7.dds"}
+	governor8 = { texturefile = "gfx/models/portraits/governor/governor8.dds"}
+	governor9 = { texturefile = "gfx/models/portraits/governor/governor9.dds"}
+	governor10 = { texturefile = "gfx/models/portraits/governor/governor10.dds"}
+	governor11 = { texturefile = "gfx/models/portraits/governor/governor11.dds"}
+	governor12 = { texturefile = "gfx/models/portraits/governor/governor12.dds"}
+	governor13 = { texturefile = "gfx/models/portraits/governor/governor13.dds"}
+	governor14 = { texturefile = "gfx/models/portraits/governor/governor14.dds"}
+	governor15 = { texturefile = "gfx/models/portraits/governor/governor15.dds"}
+	governor16 = { texturefile = "gfx/models/portraits/governor/governor16.dds"}
+	governor17 = { texturefile = "gfx/models/portraits/governor/governor17.dds"}
+	governor18 = { texturefile = "gfx/models/portraits/governor/governor18.dds"}
+	governor19 = { texturefile = "gfx/models/portraits/governor/governor19.dds"}
+	governor20 = { texturefile = "gfx/models/portraits/governor/governor20.dds"}
+	governor21 = { texturefile = "gfx/models/portraits/governor/governor21.dds"}
+	governor22 = { texturefile = "gfx/models/portraits/governor/governor22.dds"}
+	governor23 = { texturefile = "gfx/models/portraits/governor/governor23.dds"}
+	governor24 = { texturefile = "gfx/models/portraits/governor/governor24.dds"}
+	governor25 = { texturefile = "gfx/models/portraits/governor/governor25.dds"}
+	governor26 = { texturefile = "gfx/models/portraits/governor/governor26.dds"}
+	governor27 = { texturefile = "gfx/models/portraits/governor/governor27.dds"}
+
+	
 }
 
 
@@ -197,57 +299,134 @@ portrait_groups = {
 
 		}
 		#leader scope
-		leader = { #scientists, generals, admirals, governor
+		leader = { #science, generals, admirals, governor
 			add = {
+				trigger = { 
+					leader_class = scientist
+				}
 				portraits = {
-					rick1
-					rick5
-					rick7
-					rick9
-					rick11
-					rick13
-					rick14
-					rick15
-					rick16
-					rick17
-					rick18
-					rick19
-					rick20
-					rick21
-					rick22
-					rick23
-					rick24
-					rick25
-					rick26
-					rick27
-					rick28
-					rick29
-					rick30
-					rick31
-					rick33
-					rick34
-					rick35
-					rick36
-					rick37
-					rick38
-					rick39
-					rick40
-					rick41
-					rick42
-					rick43
-					rick44
-					rick45
-					rick46
-					rick47
-					rick48
-					rick49
-					rick50
-					rick51
-					rick52
-					rick53
+					science1
+					science2
+					science3
+					science4
+					science5
+					science6
+					science7
+					science8
+					science9
 				}
 			}
-
+			add = {
+				trigger = {
+					leader_class = general
+				}
+				portraits = {
+					general1
+					general2
+					general3
+					general4
+					general5
+					general6
+					general7
+					general8
+					general9
+					general10
+					general11
+					general12
+					general13
+					general14
+					general15
+					general16
+					general17
+					general18
+					general19
+				}
+			}
+			add = {
+				trigger = {
+					leader_class = admiral
+				}
+				portraits = {
+					admiral1
+					admiral2
+					admiral3
+					admiral4
+					admiral5
+					admiral6
+					admiral7
+					admiral8
+					admiral9
+					admiral10
+					admiral11
+					admiral12
+					admiral13
+					admiral14
+					admiral15
+					admiral16
+					admiral17
+					admiral18
+					admiral19
+					admiral20
+					admiral21
+					admiral22
+					admiral23
+					admiral24
+					admiral25
+					admiral26
+					admiral27
+					admiral28
+					admiral29
+					admiral30
+					admiral31
+					admiral32
+					admiral33
+					admiral34
+					admiral35
+					admiral36
+					admiral37
+					admiral38
+					admiral39
+					admiral40
+					admiral41
+					admiral42
+					admiral43
+					admiral44
+					admiral45
+				}
+			}
+			add = {
+				trigger = {
+					leader_class = governor
+				}
+				portrait = {
+					governor1
+					governor2
+					governor3
+					governor4
+					governor5
+					governor6
+					governor7
+					governor8
+					governor9
+					governor10
+					governor11
+					governor12
+					governor13
+					governor14
+					governor15
+					governor16
+					governor17
+					governor18
+					governor19
+					governor20
+					governor21
+					governor22
+					governor23
+					governor24
+					governor26
+					governor27
+				}
+			}
 		}	
 		#leader scope 
 		ruler = {
