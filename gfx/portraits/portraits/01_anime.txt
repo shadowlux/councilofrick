@@ -117,7 +117,6 @@ portraits = {
 	science16 = { texturefile = "gfx/models/portraits/science/science16.dds"}
 	science17 = { texturefile = "gfx/models/portraits/science/science17.dds"}
 	science18 = { texturefile = "gfx/models/portraits/science/science18.dds"}
-	science19 = { texturefile = "gfx/models/portraits/science/science19.dds"}
 	general1 = { texturefile = "gfx/models/portraits/general/alien1.dds"}
 	general2 = { texturefile = "gfx/models/portraits/general/alien2.dds"}
 	general3 = { texturefile = "gfx/models/portraits/general/alien3.dds"}
@@ -331,7 +330,6 @@ portrait_groups = {
 					science16
 					science17
 					science18
-					science19
 				}
 			}
 			add = {
