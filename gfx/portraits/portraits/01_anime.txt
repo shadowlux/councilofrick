@@ -164,8 +164,6 @@ portraits = {
 	governor25 = { texturefile = "gfx/models/portraits/governor/governor25.dds"}
 	governor26 = { texturefile = "gfx/models/portraits/governor/governor26.dds"}
 	governor27 = { texturefile = "gfx/models/portraits/governor/governor27.dds"}
-
-	
 }
 
 
