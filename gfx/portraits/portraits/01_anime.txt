@@ -414,7 +414,7 @@ portrait_groups = {
 			}
 			add = {
 				trigger = {
-					leader_class = governor
+					leader_class = governorr
 				}
 				portrait = {
 					governor1
