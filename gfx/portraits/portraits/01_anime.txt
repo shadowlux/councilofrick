@@ -108,6 +108,16 @@ portraits = {
 	science7 = { texturefile = "gfx/models/portraits/science/science7.dds"}
 	science8 = { texturefile = "gfx/models/portraits/science/science8.dds"}
 	science9 = { texturefile = "gfx/models/portraits/science/science9.dds"}
+	science10 = { texturefile = "gfx/models/portraits/science/science10.dds"}
+	science11 = { texturefile = "gfx/models/portraits/science/science11.dds"}
+	science12 = { texturefile = "gfx/models/portraits/science/science12.dds"}
+	science13 = { texturefile = "gfx/models/portraits/science/science13.dds"}
+	science14 = { texturefile = "gfx/models/portraits/science/science14.dds"}
+	science15 = { texturefile = "gfx/models/portraits/science/science15.dds"}
+	science16 = { texturefile = "gfx/models/portraits/science/science16.dds"}
+	science17 = { texturefile = "gfx/models/portraits/science/science17.dds"}
+	science18 = { texturefile = "gfx/models/portraits/science/science18.dds"}
+	science19 = { texturefile = "gfx/models/portraits/science/science19.dds"}
 	general1 = { texturefile = "gfx/models/portraits/general/alien1.dds"}
 	general2 = { texturefile = "gfx/models/portraits/general/alien2.dds"}
 	general3 = { texturefile = "gfx/models/portraits/general/alien3.dds"}
@@ -314,6 +324,16 @@ portrait_groups = {
 					science7
 					science8
 					science9
+					science10
+					science11
+					science12
+					science13
+					science14
+					science15
+					science16
+					science17
+					science18
+					science19
 				}
 			}
 			add = {
