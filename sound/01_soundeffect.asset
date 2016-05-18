@@ -6,3 +6,11 @@ soundeffect =
 	}
 	volume = 0.70
 }
+soundeffect =
+{
+	name = meeseeks_can_do
+	sounds { 
+			sound = meeseeks_can_do
+	}
+	volume = 0.70
+}
