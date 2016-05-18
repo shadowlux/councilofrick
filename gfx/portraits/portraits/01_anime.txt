@@ -360,6 +360,39 @@ portrait_groups = {
 					general19
 				}
 			}
+			add = { 
+				trigger = {
+					leader_class = governor
+				}
+				portraits = {
+					governor1
+					governor2
+					governor3
+					governor4
+					governor5
+					governor6
+					governor7
+					governor8
+					governor9
+					governor10
+					governor11
+					governor12
+					governor13
+					governor14
+					governor15
+					governor16
+					governor17
+					governor18
+					governor19
+					governor20
+					governor21
+					governor22
+					governor23
+					governor24
+					governor26
+					governor27
+				}
+			}
 			add = {
 				trigger = {
 					leader_class = admiral
@@ -410,39 +443,6 @@ portrait_groups = {
 					admiral43
 					admiral44
 					admiral45
-				}
-			}
-			add = {
-				trigger = {
-					leader_class = governorr
-				}
-				portrait = {
-					governor1
-					governor2
-					governor3
-					governor4
-					governor5
-					governor6
-					governor7
-					governor8
-					governor9
-					governor10
-					governor11
-					governor12
-					governor13
-					governor14
-					governor15
-					governor16
-					governor17
-					governor18
-					governor19
-					governor20
-					governor21
-					governor22
-					governor23
-					governor24
-					governor26
-					governor27
 				}
 			}
 		}	
