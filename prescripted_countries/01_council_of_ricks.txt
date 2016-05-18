@@ -1,4 +1,4 @@
-rickofricks = {
+councilofricks = {
 	name = "The Council of Ricks"
 	spawn_enabled = yes # yes / no / always
 	
@@ -25,7 +25,7 @@ rickofricks = {
 	ethic = "ethic_materialist"
 	ethic = "ethic_militarist"
 
-	flags = { human_1 custom_start_screen }
+	flags = { COR custom_start_screen }
 	
 	weapon = "tech_lasers_1"
 	ftl = wormhole
@@ -65,12 +65,12 @@ rickofricks = {
 	#}
 	
 	ruler = {
-		name = "Rick Sanchez"
+		name = "Riq IV"
 		gender = male
 <<<<<<< HEAD
-		portrait = "rick1"
+		portrait = "rick49"
 =======
-		portrait = "rick1"
+		portrait = "rick49"
 >>>>>>> origin/master
 		texture = 0
 		hair = 0

@@ -22,12 +22,11 @@
  COR_sound_05:0 "yelling"
  COR_organ:0 "stomach"
  COR_mouth:0 "mouth"
-
  ROBOT_POP_SPECIES_1:0 "Mr. Meeseeks"
  ROBOT_POP_SPECIES_2:0 "Tired Mr. Meeseeks"
- ROBOT_POP_SPECIES_3:0 "Old Mr. Meeseeks"
+ ROBOT_POP_SPECIES_3:0 "Angry Mr. Meeseeks"
  ROBOT:0 "Mr. Meeseeks"
-
+ START_SCREEN_COR:0 "The Council of Ricks is the governing body over all Ricks within reality. The council rules from their secret headquarters called the Citadel of Ricks.  In an effort to secure their power and secret research, the council has decided to expand their empire."
 trait_mechanical:0 "Meeseeks"
 trait_mechanical_desc:1 "§LMeeseeks are creatures created to serve a singular purpose for which they will go to any length to fulfill. After they serve their purpose, they expire and vanish into the air.§!\n"
 trait_robotic_1:0 "Fresh"

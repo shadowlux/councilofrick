@@ -1,0 +1,8 @@
+# councilofricks
+part = {
+	location = 0 #always 0
+	localization = "START_SCREEN_COR"
+	trigger  = {
+		has_country_flag = COR
+	}
+}

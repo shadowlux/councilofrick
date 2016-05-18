@@ -171,12 +171,12 @@ portrait_groups = {
 
 
 	rick = {
-		default = rick1
+		default = rick49
 		game_setup = { #will run with a limited country scope. species and government is set but the country does not actually exist
 			add = {
 				portraits = {
 
-					rick1
+					rick49
 					rick2
 					rick3
 					rick4
@@ -224,7 +224,7 @@ portrait_groups = {
 					rick46
 					rick47
 					rick48
-					rick49
+					rick1
 					rick50
 					rick51
 					rick52
@@ -414,7 +414,7 @@ portrait_groups = {
 			}
 			add = {
 				trigger = {
-					leader_class = governor
+					leader_class = governorr
 				}
 				portrait = {
 					governor1
@@ -450,7 +450,7 @@ portrait_groups = {
 		ruler = {
 			add = {
 				portraits = {
-					rick1
+					rick49
 					rick2
 					rick5
 					rick8
@@ -484,7 +484,7 @@ portrait_groups = {
 					rick46
 					rick47
 					rick48
-					rick49
+					rick41
 					rick50
 					rick51
 					rick52
