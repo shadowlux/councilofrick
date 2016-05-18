@@ -1,5 +1,5 @@
 portraits = {
-
+    meeseeks1 = {texturefile = "gfx/models/portraits/meeseeks/meeseeks1.dds"}
 	morty1 = {	texturefile = "gfx/models/portraits/morty/morty1.dds"	}
 	rick1 = {	texturefile = "gfx/models/portraits/rick/anim1.dds"  }
 	rick2 = {	texturefile = "gfx/models/portraits/rick/anim2.dds"  }

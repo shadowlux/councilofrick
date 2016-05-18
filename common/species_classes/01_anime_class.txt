@@ -5,9 +5,9 @@
 # can specify randomized=no to filter specified class from randomization.
 
 COR = {
+    # portraits takes portrait_groups as arguments, not specific portraits
 	portraits = {
 		"rick"
-		"morty"
 	}
 	
 	graphical_culture = mammalian_01
