@@ -8,3 +8,4 @@ COR = {
 		home_system = "Rickspace"
 		name_list = "Rick"
 	}
+}
