@@ -201,7 +201,14 @@ COR = {
 	graphical_culture = mammalian_01
 	move_pop_sound_effect = "morty_moving_pop"
 }
-
+GFM = {
+	portraits = {
+		"gromflomites"
+	}
+	
+	graphical_culture = molluscoid_01
+	move_pop_sound_effect = "molluscoid_pops_move"
+}
 PRE_MAM = {
 
 	playable = no

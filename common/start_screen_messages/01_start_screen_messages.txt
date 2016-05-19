@@ -6,3 +6,10 @@ part = {
 		has_country_flag = COR
 	}
 }
+part = { 
+	location = 0 #always 0
+	localization = "START_SCREEN_GFM"
+	trigger = {
+		has_country_flag = GFM
+	}
+}

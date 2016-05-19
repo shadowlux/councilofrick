@@ -1,0 +1,97 @@
+portraits = {
+	gromflomite1 = { texturefile = "gfx/models/portraits/gromflomites/gromflomite1.dds" }
+	gromflomite2 = { texturefile = "gfx/models/portraits/gromflomites/gromflomite2.dds" }
+	gromflomite3 = { texturefile = "gfx/models/portraits/gromflomites/gromflomite3.dds" }
+}
+
+portrait_groups = {
+	gromflomites = {
+		default = gromflomite1
+		game_setup = { #will run with a limited country scope. species and government is set but the country does not actually exist
+			add = {
+				portraits = {
+					gromflomite1
+					gromflomite2
+					gromflomite3
+				}
+			}
+
+		}
+		#species scope
+		species = { #generic portrait for a species
+			add = {
+				portraits = {
+					gromflomite1
+					gromflomite2
+					gromflomite3
+				}
+			}
+
+		}
+		#pop scope
+		pop = { #for a specific pop
+			add = {
+				portraits = {
+					gromflomite1
+					gromflomite2
+					gromflomite3
+				}
+			}
+
+		}
+		#leader scope
+		leader = { #science, generals, admirals, governor
+			add = {
+				trigger = { 
+					leader_class = scientist
+				}
+				portraits = {
+					gromflomite1
+					gromflomite2
+					gromflomite3
+				}
+			}
+			add = {
+				trigger = {
+					leader_class = general
+				}
+				portraits = {
+					gromflomite1
+					gromflomite2
+					gromflomite3
+				}
+			}
+			add = { 
+				trigger = {
+					leader_class = governor
+				}
+				portraits = {
+					gromflomite1
+					gromflomite2
+					gromflomite3
+				}
+			}
+			add = {
+				trigger = {
+					leader_class = admiral
+				}
+				portraits = {
+					gromflomite1
+					gromflomite2
+					gromflomite3
+				}
+			}
+		}	
+		#leader scope 
+		ruler = {
+			add = {
+				portraits = {
+					gromflomite1
+					gromflomite2
+					gromflomite3
+				}
+			}
+
+		}
+	}
+}

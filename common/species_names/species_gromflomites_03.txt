@@ -1,0 +1,10 @@
+# Galactic Federation
+GFM = {
+	gromflomites = {
+		name = "Galactic Federation"
+		plural = "Gromflomites"
+		home_planet = "Gromflomon"
+		home_system = "Grom"
+		name_list = "ART1"
+	}
+}
