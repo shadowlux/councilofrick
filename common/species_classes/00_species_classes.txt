@@ -196,7 +196,6 @@ FUN = {
 COR = {
 	portraits = {
 		"rick"
-		"modularrick"
 	}
 	
 	graphical_culture = mammalian_01

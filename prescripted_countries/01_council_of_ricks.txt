@@ -1,6 +1,6 @@
 councilofricks = {
 	name = "The Council of Ricks"
-	spawn_enabled = yes # yes / no / always
+	spawn_enabled = no # yes / no / always
 	
 	name_list = "Rick"
 	ship_prefix = "TST"

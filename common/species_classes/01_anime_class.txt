@@ -8,7 +8,6 @@ COR = {
     # portraits takes portrait_groups as arguments, not specific portraits
 	portraits = {
 		"rick"
-		"modularrick"
 	}
 	
 	graphical_culture = mammalian_01
