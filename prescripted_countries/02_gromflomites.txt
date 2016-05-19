@@ -1,0 +1,59 @@
+gromflomites = {
+	name = "Galactic Federation"
+	spawn_enabled = yes
+	
+	name_list = "ART1"
+	ship_prefix = "GIS"
+	
+	species_name = "Gromflomite"
+	species_plural = "Gromflomites"
+	species_adjective = "Gromflomite"
+	species_class = "GFM"
+	trait = "trait_repugnant"
+	trait = "trait_conformists"
+	trait = "trait_rapid_breeders"
+	
+	portrait = "gromflomites"
+	adjective = "Gromflomite"
+	
+	government = "military_republic"
+	ethic = "ethic_fanatic_militarist"
+	ethic = "ethic_xenophile"
+	
+	flags = { GFM custom_start_screen }
+	
+	weapon = "tech_lasers_1"
+	ftl = warp
+	
+	planet_name = "Gromflomon"
+	planet_class = "pc_tundra"
+	system_name = "Grom"
+	
+	graphical_culture = "molluscoid_01"
+	city_graphical_culture = "molluscoid_01"
+	
+	empire_flag = {
+		icon = {
+			category = "gromflomites"
+			file = "gf_flag.dds"	
+		}
+		background = {
+			category = "backgrounds"
+			file = "00_solid.dds"
+		}
+		colors = {
+			"green"
+			"black"
+			"null"
+			"null"
+		}
+	}
+	ruler = {
+		name = "Philip"
+		gender = male
+		portrait = "gromflomite1"
+		texture = 0
+		hair = 0
+		clothes = 0
+	}
+}
