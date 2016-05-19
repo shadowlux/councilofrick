@@ -6,6 +6,11 @@ portraits = {
         clothes_selector = "modular_rick_clothes_1"
         hair_selector = "modular_rick_hair_1"
         greeting_sound = "human_male_greetings_03" }
+    modularrick2 = {
+        texturefile = "gfx/models/portraits/modularrick/rick_head_2.dds"
+        clothes_selector = "modular_rick_clothes_1"
+        hair_selector = "modular_rick_hair_1"
+        greeting_sound = "human_male_greetings_03" }
 
 
     meeseeks1 = {texturefile = "gfx/models/portraits/meeseeks/meeseeks1.dds"}
@@ -190,6 +195,7 @@ portrait_groups = {
                 }
                 portraits = {
                     modularrick1
+                    modularrick2
                 }
             }
             add = {
@@ -198,6 +204,7 @@ portrait_groups = {
                 }
                 portraits = {
                     modularrick1
+                    modularrick2
                 }
             }
             #set = {
@@ -212,6 +219,7 @@ portrait_groups = {
             add = {
                 portraits = {
                     modularrick1
+                    modularrick2
                 }
             }
         }       
@@ -221,6 +229,7 @@ portrait_groups = {
             add = {
                 portraits = {
                     modularrick1
+                    modularrick2
                 }
             }
         }
@@ -233,6 +242,7 @@ portrait_groups = {
                 }
                 portraits = {
                     modularrick1
+                    modularrick2
                 }
             }
             add = {
@@ -241,6 +251,7 @@ portrait_groups = {
                 }
                 portraits = {
                     modularrick1
+                    modularrick2
                 }
             }
         }
@@ -254,6 +265,7 @@ portrait_groups = {
                 }
                 portraits = {
                     modularrick1
+                    modularrick2
                 }
             }
             add = {
@@ -262,6 +274,7 @@ portrait_groups = {
                 }
                 portraits = {
                     modularrick1
+                    modularrick2
                 }
             }
         }
