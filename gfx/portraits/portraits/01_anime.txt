@@ -1,4 +1,13 @@
 portraits = {
+
+    modularrick1 = {
+        #entity = "portrait_human_male_01_entity"
+        texturefile = "gfx/models/portraits/modularrick/rick_head_1.dds"
+        clothes_selector = "modular_rick_clothes_1"
+        hair_selector = "modular_rick_hair_1"
+        greeting_sound = "human_male_greetings_03" }
+
+
     meeseeks1 = {texturefile = "gfx/models/portraits/meeseeks/meeseeks1.dds"}
 	meeseeks_neutral = { texturefile = "gfx/models/portraits/meeseeks/meeseek_neutral.dds"}
 	meeseeks_sad = { texturefile = "gfx/models/portraits/meeseeks/meeseek_sad.dds"}
@@ -168,7 +177,95 @@ portraits = {
 }
 
 
+
+
 portrait_groups = {
+
+    modularrick = {
+        default = modularrick1
+        game_setup = { #will run with a limited country scope. species and government is set but the country does not actually exist
+            add = {
+                trigger = {
+                    ruler = { gender = male }
+                }
+                portraits = {
+                    modularrick1
+                }
+            }
+            add = {
+                trigger = {
+                    ruler = { gender = female }
+                }
+                portraits = {
+                    modularrick1
+                }
+            }
+            #set = {
+            #   trigger = { ... }
+            #   portraits = { ... }
+            #   #using "set =" instead of "add" will first clear any portraits already added
+            #}
+        }       
+        
+        #species scope
+        species = { #generic portrait for a species
+            add = {
+                portraits = {
+                    modularrick1
+                }
+            }
+        }       
+        
+        #pop scope
+        pop = { #for a specific pop
+            add = {
+                portraits = {
+                    modularrick1
+                }
+            }
+        }
+        
+        #leader scope
+        leader = { #scientists, generals, admirals, governor
+            add = {
+                trigger = {
+                    gender = female
+                }
+                portraits = {
+                    modularrick1
+                }
+            }
+            add = {
+                trigger = {
+                    gender = male
+                }
+                portraits = {
+                    modularrick1
+                }
+            }
+        }
+
+            
+        #leader scope 
+        ruler = {
+            add = {
+                trigger = {
+                    gender = female
+                }
+                portraits = {
+                    modularrick1
+                }
+            }
+            add = {
+                trigger = {
+                    gender = male
+                }
+                portraits = {
+                    modularrick1
+                }
+            }
+        }
+    }
 
 
 	rick = {
