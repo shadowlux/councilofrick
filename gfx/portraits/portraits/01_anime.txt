@@ -2,12 +2,15 @@ portraits = {
 
     modularrick1 = {
         #entity = "portrait_human_male_01_entity"
-        texturefile = "gfx/models/portraits/modularrick/rick_head_1.dds"
+        #texturefile = "gfx/models/portraits/modularrick/rick_head_1.dds"
+        entity = "portrait_rick_01_entity"
         clothes_selector = "modular_rick_clothes_1"
+        #"mammalian_human_male_clothes_01"
         hair_selector = "modular_rick_hair_1"
         greeting_sound = "human_male_greetings_03" }
     modularrick2 = {
-        texturefile = "gfx/models/portraits/modularrick/rick_head_2.dds"
+        #texturefile = "gfx/models/portraits/modularrick/rick_head_2.dds"
+        entity = "portrait_rick_01_entity"
         clothes_selector = "modular_rick_clothes_1"
         hair_selector = "modular_rick_hair_1"
         greeting_sound = "human_male_greetings_03" }
