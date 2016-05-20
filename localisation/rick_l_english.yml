@@ -27,6 +27,7 @@
  ROBOT_POP_SPECIES_3:0 "Angry Mr. Meeseeks"
  ROBOT:0 "Mr. Meeseeks"
  START_SCREEN_COR:0 "The Council of Ricks is the governing body over all Ricks within reality. The council rules from their secret headquarters called the Citadel of Ricks.  In an effort to secure their power and secret research, the council has decided to expand their empire."
+ FLAG_CATEGORY_council_of_ricks:0 "Council of Ricks"
  
  GFM:0 "Gromflomite"
  GFM_desc:1 "A Bureaucratic species."
@@ -45,6 +46,8 @@
  GFM_organ:0 "stomach"
  GFM_mouth:0 "mandibles"
  START_SCREEN_GFM:0 "GROM GROM FLOM FLOM"
+ FLAG_CATEGORY_gromflomites:0 "Gromflomite"
+ 
  
 trait_mechanical:0 "Meeseeks"
 trait_mechanical_desc:1 "§LMeeseeks are creatures created to serve a singular purpose for which they will go to any length to fulfill. After they serve their purpose, they expire and vanish into the air.§!\n"
