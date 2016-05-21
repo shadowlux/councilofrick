@@ -1,56 +1,56 @@
 #collective_hivemind = {
-	has_heir = yes
-	use_regnal_names = yes
-	
-	potential = {
-		hidden_trigger = { NOT = { is_country_type = fallen_empire } }
-	}
-	
-	ethics = {
-		OR = {
-			has_ethic = "ethic_spiritualist"
-			has_ethic = "ethic_fanatic_spiritualist"
-		}
-		NOT = { has_ethic = "ethic_individualist" }
-		NOT = { has_ethic = "ethic_fanatic_individualist" }
-	}
-	
-	modifier = {
-		pop_happiness = 0.4
-		pop_other_species_happiness = -0.5
-	}
-	
-	ruler_title = RT_SPOKESPERSON
-	ruler_title_female = RT_SPOKESPERSON
-	heir_title = HT_TRAINEE
-	heir_title_female = HT_TRAINEE
-	upgrade = transcendent_hivemind
-}
+#	has_heir = yes
+#	use_regnal_names = yes
+#	
+#	potential = {
+#		hidden_trigger = { NOT = { is_country_type = fallen_empire } }
+#	}
+#	
+#	ethics = {
+#		OR = {
+#			has_ethic = "ethic_spiritualist"
+#			has_ethic = "ethic_fanatic_spiritualist"
+#		}
+#		NOT = { has_ethic = "ethic_individualist" }
+#		NOT = { has_ethic = "ethic_fanatic_individualist" }
+#	}
+#	
+#	modifier = {
+#		pop_happiness = 0.4
+#		pop_other_species_happiness = -0.5
+#	}
+#	
+#	ruler_title = RT_SPOKESPERSON
+#	ruler_title_female = RT_SPOKESPERSON
+#	heir_title = HT_TRAINEE
+#	heir_title_female = HT_TRAINEE
+#	upgrade = transcendent_hivemind
+#}
 #transcendent_hivemind = {
-	prerequisites = { "tech_galactic_administration" }
-	has_heir = yes
-	use_regnal_names = yes
-	
-	potential = {
-		hidden_trigger = { NOT = { is_country_type = fallen_empire } }
-	}
-	ethics = {
-		OR = {
-			has_ethic = "ethic_spiritualist"
-			has_ethic = "ethic_fanatic_spiritualist"
-		}
-		NOT = { has_ethic = "ethic_individualist" }
-		NOT = { has_ethic = "ethic_fanatic_individualist" }
-	}
-	
-	modifier = {
-		pop_happiness = 0.8
-		pop_other_species_happiness = -0.25
-	}
-	
-	ruler_title = RT_MASTER_SPOKESPERSON
-	ruler_title_female = RT_MASTER_SPOKESPERSON
-	heir_title = HT_TRAINEE
-	heir_title_female = HT_TRAINEE
-	pickable_at_start = no
-}
+#	prerequisites = { "tech_galactic_administration" }
+#	has_heir = yes
+#	use_regnal_names = yes
+#	
+#	potential = {
+#		hidden_trigger = { NOT = { is_country_type = fallen_empire } }
+#	}
+#	ethics = {
+#		OR = {
+#			has_ethic = "ethic_spiritualist"
+#			has_ethic = "ethic_fanatic_spiritualist"
+#		}
+#		NOT = { has_ethic = "ethic_individualist" }
+#		NOT = { has_ethic = "ethic_fanatic_individualist" }
+#	}
+#	
+#	modifier = {
+#		pop_happiness = 0.8
+#		pop_other_species_happiness = -0.25
+#	}
+#	
+#	ruler_title = RT_MASTER_SPOKESPERSON
+#	ruler_title_female = RT_MASTER_SPOKESPERSON
+#	heir_title = HT_TRAINEE
+#	heir_title_female = HT_TRAINEE
+#	pickable_at_start = no
+#}
