@@ -1,4 +1,4 @@
-collective_hivemind = {
+#collective_hivemind = {
 	has_heir = yes
 	use_regnal_names = yes
 	
@@ -26,7 +26,7 @@ collective_hivemind = {
 	heir_title_female = HT_TRAINEE
 	upgrade = transcendent_hivemind
 }
-transcendent_hivemind = {
+#transcendent_hivemind = {
 	prerequisites = { "tech_galactic_administration" }
 	has_heir = yes
 	use_regnal_names = yes

@@ -1,4 +1,4 @@
-trait_unity = {
+#trait_unity = {
 	cost = 2
 	opposites = { "trait_communal" "trait_conformists" }
 	
