@@ -69,15 +69,3 @@ song = {
 song = {
 	name = "ridingthesolarwind"
 }
-
-song = {
-	name = "rick_getschwifty"
-}
-
-song = {
-	name = "rick_moonmen"
-}
-
-song = {
-	name = "rick_chamber"
-}

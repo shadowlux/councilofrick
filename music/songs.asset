@@ -106,21 +106,3 @@ music = {
 	file = "ridingthesolarwind.ogg"
 	volume = 0.57
 }
-
-music = {
-	name = "rick_getschwifty"
-	file = "rick_getschwifty.ogg"
-	volume = 0.57
-}
-
-music = {
-	name = "rick_moonmen"
-	file = "rick_moonmen.ogg"
-	volume = 0.57
-}
-
-music = {
-	name = "rick_chamber"
-	file = "rick_chamber.ogg"
-	volume = 0.57
-}
