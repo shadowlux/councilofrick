@@ -1,0 +1,56 @@
+unity = {
+	name = "Unity"
+	spawn_enabled = no
+	use_ai = no
+	name_list = "ART1"
+	ship_prefix = "UNU"
+	
+	species_name = "Hivemind"
+	species_plural = "Hivemind"
+	species_adjective = "Hivemind"
+	species_class = "UNI"
+	trait = "trait_unity"
+	
+	portrait = "unity"
+	adjective = "Hivemind"
+	government = "collective_hivemind"
+	ethic = "ethic_fanatic_collectivist"
+	ethic = "ethic_spiritualist"
+	
+	flags = { UNI custom_start_screen }
+	
+	weapon = "tech_lasers_1"
+	ftl = warp
+	
+	planet_name = "Unity"
+	planet_class = "pc_arid"
+	system_name = "Bleb"
+	
+	graphical_culture = "mammalian_01"
+	city_graphical_culture = "mammalian_01"
+	
+	empire_flag = {
+		icon = {
+			category = "unity"
+			file = "unity_flag.dds"
+		}
+		background = {
+			category = "backgrounds"
+			file = "00_solid.dds"
+		}
+		colors = {
+			"black"
+			"black"
+			"null"
+			"null"
+		}
+	}
+	ruler = {
+		name = "Unity"
+		gender = female
+		portrait = "unity1"
+		texture = 0
+		hair = 0
+		clothes = 0
+	}
+}

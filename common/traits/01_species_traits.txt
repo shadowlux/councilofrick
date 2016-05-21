@@ -1,0 +1,8 @@
+trait_unity = {
+	cost = 2
+	opposites = { "trait_communal" "trait_conformists" }
+	
+	modifier = {
+		pop_ethic_shift  = -0.5
+	}
+}

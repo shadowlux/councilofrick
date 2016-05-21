@@ -1,0 +1,79 @@
+portraits = {
+	unity1 = { texturefile = "gfx/models/portraits/gromflomites/gromflomite1.dds"}
+}
+
+portrait_groups = {
+	unity = {
+		default = unity1
+		game_setup = { #will run with a limited country scope. species and government is set but the country does not actually exist
+			add = {
+				portraits = {
+					unity1
+				}
+			}
+
+		}
+		#species scope
+		species = { #generic portrait for a species
+			add = {
+				portraits = {
+					unity1
+				}
+			}
+
+		}
+		#pop scope
+		pop = { #for a specific pop
+			add = {
+				portraits = {
+					unity1
+				}
+			}
+
+		}
+		#leader scope
+		leader = { #science, generals, admirals, governor
+			add = {
+				trigger = { 
+					leader_class = scientist
+				}
+				portraits = {
+					unity1
+				}
+			}
+			add = {
+				trigger = {
+					leader_class = general
+				}
+				portraits = {
+					unity1
+				}
+			}
+			add = { 
+				trigger = {
+					leader_class = governor
+				}
+				portraits = {
+					unity1
+				}
+			}
+			add = {
+				trigger = {
+					leader_class = admiral
+				}
+				portraits = {
+					unity1
+				}
+			}
+		}	
+		#leader scope 
+		ruler = {
+			add = {
+				portraits = {
+					unity1
+				}
+			}
+
+		}
+	}
+}

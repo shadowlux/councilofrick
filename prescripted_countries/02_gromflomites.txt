@@ -2,7 +2,7 @@ gromflomites = {
 	name = "Galactic Federation"
 	spawn_enabled = yes
 	
-	name_list = "Gromflomites"
+	name_list = "ART1"
 	ship_prefix = "GIS"
 	
 	species_name = "Gromflomite"
@@ -42,7 +42,7 @@ gromflomites = {
 			file = "00_solid.dds"
 		}
 		colors = {
-			"green"
+			"black"
 			"black"
 			"null"
 			"null"
