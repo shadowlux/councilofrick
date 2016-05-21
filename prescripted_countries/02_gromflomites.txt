@@ -42,7 +42,7 @@ gromflomites = {
 			file = "00_solid.dds"
 		}
 		colors = {
-			"green"
+			"black"
 			"black"
 			"null"
 			"null"

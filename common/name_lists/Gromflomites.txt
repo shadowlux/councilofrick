@@ -2,7 +2,7 @@
 ### Created by Ben Easterbrook
 
 
-Gro = {
+GFM = {
    selectable = yes
 
 ship_names = {

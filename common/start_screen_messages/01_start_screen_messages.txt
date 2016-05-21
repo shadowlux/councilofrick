@@ -13,3 +13,10 @@ part = {
 		has_country_flag = GFM
 	}
 }
+part = {
+	location = 0 #always 0
+	localization = "START_SCREEN_UNI"
+	trigger = {
+		has_country_flag = UNI
+	}
+}
