@@ -1,4 +1,4 @@
-#gromflomites = {
+gromflomites = {
 	name = "Galactic Federation"
 	spawn_enabled = yes
 	
