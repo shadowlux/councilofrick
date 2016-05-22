@@ -218,6 +218,22 @@ UNI = {
 	graphical_culture = mammalian_01
 	move_pop_sound_effect = "moving_pop_confirmation"
 }
+ZIG = {
+	portraits = {
+		"zigerions"
+	}
+	
+	graphical_culture = mammalian_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+C137 = {
+	portraits = {
+		"c137"
+	}
+	
+	graphical_culture = mammalian_01
+	move_pop_sound_effect = "morty_moving_pop"
+}
 PRE_MAM = {
 
 	playable = no

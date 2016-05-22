@@ -1,8 +1,17 @@
-#trait_unity = {
-#	cost = 2
-#	opposites = { "trait_communal" "trait_conformists" }
-#	
-#	modifier = {
-#		pop_ethic_shift  = -0.5
-#	}
-#}
+trait_unity = {
+	cost = 2
+	opposites = { "trait_communal" "trait_conformists" }
+	
+	modifier = {
+		pop_ethic_shift  = -0.5
+	}
+}
+trait_gymnophobia = {
+	cost = 2
+	opposites = { "trait_charismatic" "trait_repugnant"}
+	
+	modifier = {
+		pop_other_species_happiness = 0.02
+		pop_growth_req_mult = 0.2
+	}
+}
