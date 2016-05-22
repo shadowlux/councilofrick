@@ -8,4 +8,38 @@ COR = {
 		home_system = "Rickspace"
 		name_list = "Rick"
 	}
+
+	gromflomites = {
+		name = "Galactic Federation"
+		plural = "Gromflomites"
+		home_planet = "Gromflomon"
+		home_system = "Grom"
+		name_list = "ART1"
+	}
+
+# NO ARTWORK YET:
+#
+#	unity = {
+#		name = "Unity"
+#		plural = "Hivemind"
+#		home_planet = "Unity"
+#		home_system = "Bleb"
+#		name_list = "Rick"
+#	}
+#
+#	zigerions = {
+#		name = "Zigerion Empire"
+#		plural = "Zigerions"
+#		home_planet = "Ziger"
+#		home_system = "Zi"
+#		name_list = "ART1"
+#	}
+#
+#	c137 = {
+#		name = "Empire of Earth C-137"
+#		plural = "Humans"
+#		home_planet = "Earth C-137"
+#		home_system = "Sol"
+#		name_list = "Human2"
+#	}
 }

@@ -8,7 +8,7 @@
 	species_name = "Zigerion"
 	species_plural = "Zigerions"
 	species_adjective = "Zigerion"
-	species_class = "ZIG"
+	species_class = "COR"
 	trait = "trait_gymnophobia"
 	
 	portrait = "zigerions"

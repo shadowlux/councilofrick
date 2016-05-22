@@ -8,7 +8,7 @@
 	species_name = "Hivemind"
 	species_plural = "Hivemind"
 	species_adjective = "Hivemind"
-	species_class = "UNI"
+	species_class = "COR"
 	trait = "trait_unity"
 	
 	portrait = "unity"
