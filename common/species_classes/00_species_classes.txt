@@ -199,10 +199,6 @@ COR = {
 
 	portraits = {
 		"rick"
-# NO ARTWORK YET
-#		"unity"
-#		"zigerions"
-#		"c137"
 	}
 	
 	graphical_culture = mammalian_01
