@@ -192,9 +192,11 @@ FUN = {
 }
 
 # There is currently a bug that causes the PRE_MAM portraits to show up if you
-# put the new tab in another document instead of this one -InterfaceZealot
+# put the new tab in another document instead of this one -Mr. Sneezy 3D
 #rick and morty races
 COR = {
+	randomized = no
+
 	portraits = {
 		"rick"
 	}
@@ -202,7 +204,10 @@ COR = {
 	graphical_culture = mammalian_01
 	move_pop_sound_effect = "morty_moving_pop"
 }
+
 GFM = {
+	randomized = no
+
 	portraits = {
 		"gromflomites"
 	}
@@ -210,30 +215,41 @@ GFM = {
 	graphical_culture = molluscoid_01
 	move_pop_sound_effect = "molluscoid_pops_move"
 }
-UNI = {
-	portraits = {
-		"unity"
-	}
-	
-	graphical_culture = mammalian_01
-	move_pop_sound_effect = "moving_pop_confirmation"
-}
-ZIG = {
-	portraits = {
-		"zigerions"
-	}
-	
-	graphical_culture = mammalian_01
-	move_pop_sound_effect = "moving_pop_confirmation"
-}
-C137 = {
-	portraits = {
-		"c137"
-	}
-	
-	graphical_culture = mammalian_01
-	move_pop_sound_effect = "morty_moving_pop"
-}
+
+#UNI = {
+#	randomized = no
+#
+#	portraits = {
+#		"unity"
+#	}
+#	
+#	graphical_culture = mammalian_01
+#	move_pop_sound_effect = "moving_pop_confirmation"
+#}
+
+#ZIG = {
+#	randomized = no
+#
+#	portraits = {
+#		"zigerions"
+#	}
+#	
+#	graphical_culture = mammalian_01
+#	move_pop_sound_effect = "moving_pop_confirmation"
+#}
+
+#C137 = {
+#	randomized = no
+#
+#	portraits = {
+#		"c137"
+#	}
+#	
+#	graphical_culture = mammalian_01
+#	move_pop_sound_effect = "morty_moving_pop"
+#}
+
+
 PRE_MAM = {
 
 	playable = no

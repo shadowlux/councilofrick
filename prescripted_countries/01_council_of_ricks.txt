@@ -1,11 +1,11 @@
 councilofricks = {
 	name = "The Council of Ricks"
-	spawn_enabled = no # yes / no / always
+	spawn_enabled = always # yes / no / always
 	use_ai = no
 	name_list = "Rick"
 	ship_prefix = "TST"
 	
-	species_name = "Rick"
+	species_name = "Human"
 	species_plural = "Ricks"	#we should localize this!
 	species_adjective = "Rick"
 	species_class = "COR"

@@ -1,5 +1,6 @@
-### RICKS
+##### COUNCIL OF RICKS SPECIES
 
+### COUNCIL OF RICKS
 COR = {
 	councilofricks = {
 		name = "The Council of Ricks"
@@ -9,3 +10,53 @@ COR = {
 		name_list = "Rick"
 	}
 }
+
+### GALACTIC FEDERATION
+GFM = {
+	gromflomites = {
+		name = "Galactic Federation"
+		plural = "Gromflomites"
+		home_planet = "Gromflomon"
+		home_system = "Grom"
+		name_list = "ART1"
+	}
+}
+
+
+# NO ARTWORK YET:
+#
+#
+#
+### UNITY
+#UNI = {
+#	unity = {
+#		name = "Unity"
+#		plural = "Hivemind"
+#		home_planet = "Unity"
+#		home_system = "Bleb"
+#		name_list = "Rick"
+#	}
+#}
+#
+
+### ZIGERIONS
+#ZIG = {
+#	zigerions = {
+#		name = "Zigerion Empire"
+#		plural = "Zigerions"
+#		home_planet = "Zigeria"
+#		home_system = "Zi"
+#		name_list = "ART1"
+#	}
+#}
+
+### EARTH C-137
+#C137 = {
+#	c137 = {
+#		name = "Empire of Earth C-137"
+#		plural = "Humans"
+#		home_planet = "Earth C-137"
+#		home_system = "Sol"
+#		name_list = "Human2"
+#	}
+#}

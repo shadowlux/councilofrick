@@ -1,6 +1,6 @@
 gromflomites = {
 	name = "Galactic Federation"
-	spawn_enabled = yes
+	spawn_enabled = always
 	
 	name_list = "ART1"
 	ship_prefix = "GIS"
@@ -51,7 +51,7 @@ gromflomites = {
 	ruler = {
 		name = "Philip"
 		gender = male
-		portrait = "gromflomite1"
+		portrait = "ruler_gromflomite1"
 		texture = 0
 		hair = 0
 		clothes = 0
