@@ -5,7 +5,7 @@ councilofricks = {
 	name_list = "Rick"
 	ship_prefix = "TST"
 	
-	species_name = "Rick"
+	species_name = "Human"
 	species_plural = "Ricks"	#we should localize this!
 	species_adjective = "Rick"
 	species_class = "COR"
