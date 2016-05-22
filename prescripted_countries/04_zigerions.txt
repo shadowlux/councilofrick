@@ -1,4 +1,4 @@
-zigerions = {
+#zigerions = {
 	name = "Zigerion Empire"
 	spawn_enabled = no
 	use_ai = no

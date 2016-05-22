@@ -1,18 +1,20 @@
 portraits = {
-	gromflomite1 = { texturefile = "gfx/models/portraits/gromflomites/gromflomite1.dds" }
-	gromflomite2 = { texturefile = "gfx/models/portraits/gromflomites/gromflomite2.dds" }
-	gromflomite3 = { texturefile = "gfx/models/portraits/gromflomites/gromflomite3.dds" }
+	ruler_gromflomite1 = { texturefile = "gfx/models/portraits/gromflomites/ruler/ruler_gromflomite1.dds" }
+	general_gromflomite1 = { texturefile = "gfx/models/portraits/gromflomites/general/general_gromflomite1.dds" }
+	scientist_gromflomite1 = { texturefile = "gfx/models/portraits/gromflomites/scientist/scientist_gromflomite1.dds" }
+	governor_gromflomite1 = { texturefile = "gfx/models/portraits/gromflomites/governor/governor_gromflomite1.dds" }
+	admiral_gromflomite1 = { texturefile = "gfx/models/portraits/gromflomites/admiral/admiral_gromflomite1.dds" }
+	pop_gromflomite1 = { texturefile = "gfx/models/portraits/gromflomites/pop/pop_gromflomite1.dds" }
+
 }
 
 portrait_groups = {
 	gromflomites = {
-		default = gromflomite1
+		default = pop_gromflomite1
 		game_setup = { #will run with a limited country scope. species and government is set but the country does not actually exist
 			add = {
 				portraits = {
-					gromflomite1
-					gromflomite2
-					gromflomite3
+					pop_gromflomite1
 				}
 			}
 
@@ -21,9 +23,7 @@ portrait_groups = {
 		species = { #generic portrait for a species
 			add = {
 				portraits = {
-					gromflomite1
-					gromflomite2
-					gromflomite3
+					pop_gromflomite1
 				}
 			}
 
@@ -32,9 +32,7 @@ portrait_groups = {
 		pop = { #for a specific pop
 			add = {
 				portraits = {
-					gromflomite1
-					gromflomite2
-					gromflomite3
+					pop_gromflomite1
 				}
 			}
 
@@ -46,9 +44,7 @@ portrait_groups = {
 					leader_class = scientist
 				}
 				portraits = {
-					gromflomite1
-					gromflomite2
-					gromflomite3
+					scientist_gromflomite1
 				}
 			}
 			add = {
@@ -56,9 +52,7 @@ portrait_groups = {
 					leader_class = general
 				}
 				portraits = {
-					gromflomite1
-					gromflomite2
-					gromflomite3
+					general_gromflomite1
 				}
 			}
 			add = { 
@@ -66,9 +60,7 @@ portrait_groups = {
 					leader_class = governor
 				}
 				portraits = {
-					gromflomite1
-					gromflomite2
-					gromflomite3
+					governor_gromflomite1
 				}
 			}
 			add = {
@@ -76,9 +68,7 @@ portrait_groups = {
 					leader_class = admiral
 				}
 				portraits = {
-					gromflomite1
-					gromflomite2
-					gromflomite3
+					admiral_gromflomite1
 				}
 			}
 		}	
@@ -86,9 +76,7 @@ portrait_groups = {
 		ruler = {
 			add = {
 				portraits = {
-					gromflomite1
-					gromflomite2
-					gromflomite3
+					ruler_gromflomite1
 				}
 			}
 
