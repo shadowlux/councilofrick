@@ -39,7 +39,7 @@ councilofricks = {
 	
 	empire_flag = {
 		icon= {
-			category = "council_of_ricks"
+			category = "rick_and_morty"
 			file = "council_of_ricks_logo.dds"
 		}
 		background= {

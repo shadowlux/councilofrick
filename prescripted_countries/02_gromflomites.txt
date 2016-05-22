@@ -34,7 +34,7 @@ gromflomites = {
 	
 	empire_flag = {
 		icon = {
-			category = "gromflomites"
+			category = "rick_and_morty"
 			file = "gf_flag.dds"	
 		}
 		background = {

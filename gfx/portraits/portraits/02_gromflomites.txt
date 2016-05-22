@@ -1,24 +1,29 @@
 portraits = {
-	ruler_gromflomite1 = { texturefile = "gfx/models/portraits/gromflomites/ruler/ruler_gromflomite1.dds" }
-	general_gromflomite1 = { texturefile = "gfx/models/portraits/gromflomites/general/general_gromflomite1.dds" }
-	scientist_gromflomite1 = { texturefile = "gfx/models/portraits/gromflomites/scientist/scientist_gromflomite1.dds" }
-	governor_gromflomite1 = { texturefile = "gfx/models/portraits/gromflomites/governor/governor_gromflomite1.dds" }
-	admiral_gromflomite1 = { texturefile = "gfx/models/portraits/gromflomites/admiral/admiral_gromflomite1.dds" }
-	pop_gromflomite1 = { texturefile = "gfx/models/portraits/gromflomites/pop/pop_gromflomite1.dds" }
+	ruler_gromflomite1     = { texturefile = "gfx/models/portraits/gromflomites/ruler_gromflomite1.dds" }
+	scientist_gromflomite1 = { texturefile = "gfx/models/portraits/gromflomites/scientist_gromflomite1.dds" }
+	governor_gromflomite1  = { texturefile = "gfx/models/portraits/gromflomites/governor_gromflomite1.dds" }
+	admiral_gromflomite1   = { texturefile = "gfx/models/portraits/gromflomites/admiral_gromflomite1.dds" }
+	general_gromflomite1   = { texturefile = "gfx/models/portraits/gromflomites/general_gromflomite1.dds" }
+	pop_gromflomite1       = { texturefile = "gfx/models/portraits/gromflomites/pop_gromflomite1.dds" }
 
 }
 
 portrait_groups = {
 	gromflomites = {
-		default = pop_gromflomite1
+		default = ruler_gromflomite1
 		game_setup = { #will run with a limited country scope. species and government is set but the country does not actually exist
 			add = {
 				portraits = {
+					ruler_gromflomite1
+					scientist_gromflomite1
+					governor_gromflomite1
+					admiral_gromflomite1
+					general_gromflomite1
 					pop_gromflomite1
 				}
 			}
-
 		}
+
 		#species scope
 		species = { #generic portrait for a species
 			add = {
@@ -26,8 +31,8 @@ portrait_groups = {
 					pop_gromflomite1
 				}
 			}
-
 		}
+
 		#pop scope
 		pop = { #for a specific pop
 			add = {
@@ -35,7 +40,6 @@ portrait_groups = {
 					pop_gromflomite1
 				}
 			}
-
 		}
 		#leader scope
 		leader = { #science, generals, admirals, governor
@@ -79,7 +83,6 @@ portrait_groups = {
 					ruler_gromflomite1
 				}
 			}
-
 		}
 	}
 }
