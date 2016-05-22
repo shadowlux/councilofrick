@@ -1,0 +1,56 @@
+zigerions = {
+	name = "Zigerion Empire"
+	spawn_enabled = no
+	use_ai = no
+	name_list = "ART1"
+	ship_prefix = "ZRN"
+	
+	species_name = "Zigerion"
+	species_plural = "Zigerions"
+	species_adjective = "Zigerion"
+	species_class = "ZIG"
+	trait = "trait_gymnophobia"
+	
+	portrait = "zigerions"
+	adjective = "Zigerion"
+	government = "despotic_hegemony"
+	ethic = "ethic_fanatic_materialist"
+	ethic = "ethic_pacifist"
+	
+	flags = { ZIG custom_start_screen }
+	
+	weapon = "tech_lasers_1"
+	ftl = warp
+	
+	planet_name = "Ziger"
+	planet_class = "pc_arctic"
+	system_name = "Zi"
+	
+	graphical_culture = "mammalian_01"
+	city_graphical_culture = "mammalian_01"
+	
+	empire_flag = {
+		icon = {
+			category = "zigerions"
+			file = "zigerion_flag.dds"
+		}
+		background = {
+			category = "backgrounds"
+			file = "00_solid.dds"
+		}
+		colors = {
+			"black"
+			"black"
+			"null"
+			"null"
+		}
+	}
+	ruler = {
+		name = "Prince Nebulon"
+		gender = male
+		portrait = "zigerion1"
+		texture = 0
+		hair = 0
+		clothes = 0
+	}
+}

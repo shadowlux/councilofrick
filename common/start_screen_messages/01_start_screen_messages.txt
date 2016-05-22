@@ -20,3 +20,17 @@ part = {
 		has_country_flag = UNI
 	}
 }
+part = {
+	location = 0
+	localization = "START_SCREEN_ZIG"
+	trigger = {
+		has_country_flag = ZIG
+	}
+}
+part = {
+	location = 0 #always 0 
+	localization = "START_SCREEN_C137"
+	trigger = {
+		has_country_flag = C137
+	}
+}

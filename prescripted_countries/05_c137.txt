@@ -1,0 +1,59 @@
+c137 = {
+	name = "Empire of Earth C-137"
+	spawn_enabled = no
+	use_ai  = no
+	name_list = "Human2"
+	ship_prefix = "E137"
+	
+	species_name = "Human"
+	species_plural  = "Humans"
+	species_adjective = "Human"
+	species_class = "C137"
+	trait = "trait_natural_physicists"
+	trait = "trait_talented"
+	trait = "trait_solitary"
+	
+	portrait = "c137"
+	adjective = "Human"
+	government = "science_directorate"
+	ethic = "ethic_fanatic_materialist"
+	ethic = "ethic_xenophile"
+	
+	flags = { C137 custom_start_screen }
+	
+	weapon = "tech_lasers_1"
+	ftl = warp
+	
+	planet_name = "Earth C-137"
+	planet_class = "pc_continental"
+	system_name = "Sol"
+	initializer = "sol_system_initializer"
+	
+	graphical_culture = "mammalian_01"
+	city_graphical_culture = "mammalian_01"
+	
+	empire_flag = {
+		icon = {
+			category = "c137"
+			files = "c137_flag.dds"
+		}
+		background = {
+			category = "backgrounds"
+			files = "00_solid.dds"
+		}
+		colors = {
+			"blue"
+			"black"
+			"null"
+			"null"
+		}
+	}
+	ruler = {
+		name = "Rick Sanchez"
+		gender = male
+		portrait = "c137_1"
+		texture = 0
+		hair = 0
+		clothes = 0
+	}
+}

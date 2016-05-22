@@ -1,0 +1,11 @@
+#zigerions
+
+ZIG = {
+	zigerions = {
+		name = "Zigerion Empire"
+		plural = "Zigerions"
+		home_planet = "Ziger"
+		home_system = "Zi"
+		name_list = "ART1"
+	}
+}
