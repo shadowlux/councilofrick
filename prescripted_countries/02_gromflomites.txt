@@ -2,7 +2,7 @@ gromflomites = {
 	name = "Galactic Federation"
 	spawn_enabled = always
 	
-	name_list = "ART1"
+	name_list = "Gromflomites"
 	ship_prefix = "GIS"
 	
 	species_name = "Gromflomite"

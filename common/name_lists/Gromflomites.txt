@@ -2,7 +2,7 @@
 ### Created by Ben Easterbrook
 
 
-GFM = {
+Gromflomites = {
    selectable = yes
 
 ship_names = {
