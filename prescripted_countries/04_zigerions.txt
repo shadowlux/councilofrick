@@ -1,15 +1,15 @@
 zigerions = {
 	name = "Zigerion Empire"
-	spawn_enabled = no
-	use_ai = no
+	spawn_enabled = yes
 	name_list = "ART1"
 	ship_prefix = "ZRN"
 	
 	species_name = "Zigerion"
 	species_plural = "Zigerions"
 	species_adjective = "Zigerion"
-	species_class = "COR"
+	species_class = "ZIG"
 	trait = "trait_gymnophobia"
+	trait = "trait_scammer"
 	
 	portrait = "zigerions"
 	adjective = "Zigerion"
@@ -48,7 +48,7 @@ zigerions = {
 	ruler = {
 		name = "Prince Nebulon"
 		gender = male
-		portrait = "zigerion1"
+		portrait = "ruler1"
 		texture = 0
 		hair = 0
 		clothes = 0

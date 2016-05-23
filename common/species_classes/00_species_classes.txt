@@ -216,6 +216,17 @@ GFM = {
 	move_pop_sound_effect = "molluscoid_pops_move"
 }
 
+ZIG = {
+	randomized = no
+
+	portraits = {
+		"zigerions"
+	}
+	
+	graphical_culture = mammalian_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+
 #UNI = {
 #	randomized = no
 #
@@ -227,16 +238,6 @@ GFM = {
 #	move_pop_sound_effect = "moving_pop_confirmation"
 #}
 
-#ZIG = {
-#	randomized = no
-#
-#	portraits = {
-#		"zigerions"
-#	}
-#	
-#	graphical_culture = mammalian_01
-#	move_pop_sound_effect = "moving_pop_confirmation"
-#}
 
 #C137 = {
 #	randomized = no

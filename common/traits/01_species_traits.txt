@@ -7,11 +7,20 @@
 #	}
 #}
 trait_gymnophobia = {
-	cost = 2
-	opposites = { "trait_charismatic" "trait_repugnant"}
+	cost = -2
+	opposites = { "trait_agrarian" "trait_rapid_breeders"}
 	
 	modifier = {
-		pop_other_species_happiness = 0.02
-		pop_growth_req_mult = 0.2
+		pop_growth_req_mult = 0.3
 	}
 }
+trait_scammer = {
+	cost = 4
+	opposites = { "trait_thrifty" }
+	
+	modifier = {
+		tile_resource_energy_mult = 0.25
+	}
+}
+
+	
