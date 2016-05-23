@@ -15,7 +15,7 @@ zigerions = {
 	adjective = "Zigerion"
 	government = "despotic_hegemony"
 	ethic = "ethic_fanatic_materialist"
-	ethic = "ethic_pacifist"
+	ethic = "ethic_xenophobe"
 	
 	flags = { ZIG custom_start_screen }
 	
@@ -31,7 +31,7 @@ zigerions = {
 	
 	empire_flag = {
 		icon = {
-			category = "zigerions"
+			category = "rick_and_morty"
 			file = "zigerion_flag.dds"
 		}
 		background = {
