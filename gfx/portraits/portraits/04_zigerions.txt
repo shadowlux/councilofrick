@@ -14,10 +14,18 @@ portraits = {
 
 portrait_groups = {
 	zigerions = {
-		default = pop1
+		default = ruler1
 		game_setup = { #will run with a limited country scope. species and government is set but the country does not actually exist
 			add = {
 				portraits = {
+					ruler1
+					general1
+					scientist1
+					scientist2
+					scientist3
+					governor1
+					admiral1
+					admiral2
 					pop1
 					pop2
 				}
