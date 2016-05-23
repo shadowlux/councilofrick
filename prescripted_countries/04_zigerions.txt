@@ -1,4 +1,4 @@
-#zigerions = {
+zigerions = {
 	name = "Zigerion Empire"
 	spawn_enabled = no
 	use_ai = no
@@ -22,7 +22,7 @@
 	weapon = "tech_lasers_1"
 	ftl = warp
 	
-	planet_name = "Ziger"
+	planet_name = "Zigeria"
 	planet_class = "pc_arctic"
 	system_name = "Zi"
 	
