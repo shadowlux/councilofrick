@@ -22,6 +22,17 @@ GFM = {
 	}
 }
 
+### ZIGERIONS
+ZIG = {
+	zigerions = {
+		name = "The Federal Republic of Zigeria"
+		plural = "Zigerions"
+		home_planet = "Zigeria"
+		home_system = "Zi"
+		name_list = "ART1"
+	}
+}
+
 
 # NO ARTWORK YET:
 #
@@ -40,15 +51,15 @@ GFM = {
 #
 
 ### ZIGERIONS
-#ZIG = {
-#	zigerions = {
-#		name = "Zigerion Empire"
-#		plural = "Zigerions"
-#		home_planet = "Zigeria"
-#		home_system = "Zi"
-#		name_list = "ART1"
-#	}
-#}
+ZIG = {
+	zigerions = {
+		name = "Zigerion Empire"
+		plural = "Zigerions"
+		home_planet = "Zigeria"
+		home_system = "Zi"
+		name_list = "ART1"
+	}
+}
 
 ### EARTH C-137
 #C137 = {

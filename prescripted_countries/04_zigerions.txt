@@ -1,5 +1,5 @@
 zigerions = {
-	name = "Zigerion Empire"
+	name = "The Federal Republic of Zigeria"
 	spawn_enabled = yes
 	name_list = "ART1"
 	ship_prefix = "ZRN"
