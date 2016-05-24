@@ -6,6 +6,7 @@
  
  name_list_Rick: "The Council of Ricks"
  name_list_Gromflomites: "Gromflomite"
+ name_list_Zigerion: "Zigerion"
  
  COR:0 "Rick"
  COR_desc:1 "Species Class has no effect on your Empire, but Ricks may consider other Ricks to be less alien than other Species Classes."

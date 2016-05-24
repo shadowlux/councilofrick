@@ -1,0 +1,220 @@
+### Rick and Morty Overhaul
+
+
+Zigerion = {
+   selectable = yes
+
+ship_names = {
+
+         generic = {
+            "Great Deal" "Big Value" "Extra Value" "2 for 1" "Big Savings" "Hot Babes In Your Area" "Legit" "Your Money Back" "Investment Fund" "Free Real Estate" "Free Money" "Lose Weight Fast"  "Ponzi" "Credulous" "Gone Phishing" "Clip Joint" "Badger" "Pig in a Poke" "Glim Dropper" "Fall Man" "Three Card Monte" "Plutonian Prisoner" "Money Box" "Pyramid" "Sure-Fire" "Fortune-Teller" "Zigerion Letter" "Comission" "Chargeback" "Ace in the Sleeve" "Pay-Off" "Dividend" "Charlatan" "Extended Warranty" "Safe Bet" "Sure Thing" "Small Print" "419" "Rain Maker" "Travelling Salesman" "Get One Free" "Get-Rich-Quick" "The Prince's Lawyer" "Inheritance" "Quick Win" "Silver Bullet" "Solicitor" "Advance Fee"  "Crapshoot"
+         }
+
+         corvette = {
+            
+         }
+
+         constructor = {
+            "Zigerion Constructor" 
+         }
+
+         colonizer = {
+            "Some Assembly Required" "Batteries Not Included" "Sold Seperately" "Beach Front Property"
+         }
+
+         science = {
+            "Market Research" "Doctors Hate Him" "Innovation" "No Warranty" "Infinite Value"
+         }
+
+         destroyer = {
+            
+         }
+
+         cruiser = {
+            
+         }
+
+         battleship = {
+            
+         }
+
+         orbital_station = {}
+
+         mining_station = {}
+
+         research_station = {}
+
+         wormhole_station = {}
+
+         terraform_station = {}
+
+         observation_station = {}
+
+         outpost_station = {
+            random_names =
+            {
+               "Vested Interest" "Return on Investment" "Guaranteed" "Final Offer" "Domain Renewal" "Offshoring" "Hyperlocal"
+            }
+            
+            sequential_name = "%O% Frontier Outpost"
+            }
+
+
+         military_station_small = {}
+         military_station_medium = {}
+         military_station_large = {}   
+
+         transport = {
+            "Cash 4 Gold" "Family Jewels" "No Backsies" "Final Deal" "Free Shipping" "Mint Condition" "Good as New" "Special Offer" "Buy Now" "Overnight Shipping"
+         }
+
+         military_station_small = {}
+
+         military_station_medium = {}
+
+         military_station_large = {}
+
+   }
+
+         fleet_names = {
+            random_names =
+            {
+               "Debitor Fleet" "Creditor Fleet" "First-Party Fleet" "Innovator Fleet" "Upseller Fleet" "Storyteller Fleet" "New Economy Fleet"
+            }
+            sequential_name =
+         }
+
+      army_names = {
+   
+      defense_army = {
+         sequential_name = "%O% Planetary Guard"
+      }
+
+      assault_army = {
+         sequential_name = "%O% Expeditionary Force"
+      }
+      
+      slave_army = {
+         sequential_name = "%O% Indentured Rifles"
+      }
+      
+      clone_army = { 
+         sequential_name = "%O% Clone Army"
+      }
+      
+      robotic_army = {
+         sequential_name = "%O% Hunter-Killer Group"
+      }
+      
+      android_army = {
+         sequential_name = "%O% Synthetic Rangers"
+      }
+      
+      psionic_army = { 
+         sequential_name = "%O% Psi Commando"
+      }
+      
+      xenomorph_army = {
+         sequential_name = "%O% Bio-Warfare Division"
+      }
+      
+      gene_warrior_army = {
+         random_names = {
+            "Special Unit 'Tough Sellers'" "Special Unit 'Big Deal'" "Special Unit 'Military Advisors'" "Special Unit 'Exit Strategy'"
+         }
+         sequential_name = "%O% Bio-Engineered Squadron"
+      }
+   }
+
+   planet_names = {
+         generic = {
+            names = {
+               "New Zigeria" "Nebulon's Bargain" "Nebulon's Deal" "Marketplace" "Freeside" "Franchise" "Chopshop" "Flea Market" "Pawnsville" "Bargain" "Three Card Mountain"
+            }
+         }
+
+         pc_desert = {
+            names = {
+               
+            }
+         }
+
+         pc_arid = {
+            names = {
+               
+            }
+         }
+
+         pc_tropical = {
+            names = {
+               
+            }
+         }
+
+         pc_continental = {
+            names = {
+               
+            }
+         }
+
+         pc_ocean = {
+            names = {
+               
+            }
+         }
+
+         pc_tundra = {
+            names = {
+               
+            }
+         }
+
+         pc_arctic = {
+            names = {
+               
+            }
+         }
+
+   }
+
+   character_names = {
+      default = {
+         full_names = {
+            
+         }
+
+         first_names = {
+            "Kevin" "Colin" "Kyle" "Brian" "Patrick" "Ryan" "Josh" "Wayne" "Craig" "Matthew" "Michael" "Jason" "Steven" "Andrew" "Timothy" "Brandon" "Justin" "Daniel" "Sean" "Alex" "Mike" "Simon" "Nelson"
+         }
+
+         first_names_male = {
+            
+         }
+
+         first_names_female = {
+            
+         }
+
+         second_names = {
+            "Nebulon" "Solan" "Galacticus" "Astronimus" "Hyperion" "Maximus" "Amorphos" "Placito" "Stultum" "Pecunius" "Excretium" "Profundus" "Excelsior"
+         }
+
+         regnal_first_names = {
+            
+         }
+
+         regnal_first_names_male = {
+            
+         }
+
+         regnal_first_names_female = {
+            
+         }
+
+         regnal_second_names = {
+            
+         }
+
+      }
+   }
+}
