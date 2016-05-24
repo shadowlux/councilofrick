@@ -7,7 +7,7 @@ Zigerion = {
 ship_names = {
 
          generic = {
-            "Bargain" "Great Deal" "Big Value" "Extra Value" "2 for 1" "Big Savings" "Hot Babes In Your Area" "Legit" "Your Money Back" "Investment Fund" "Free Real Estate" "Free Money" "Lose Weight Fast"  "Ponzi" "Credulous" "Gone Phishing" "Clip Joint" "Badger" "Pig in a Poke" "Glim Dropper" "Fall Man" "Three Card Monte" "Plutonian Prisoner" "Money Box" "Pyramid" "Sure-Fire" "Fortune-Teller" "Zigerion Letter" "Comission" "Chargeback" "Ace in the Sleeve" "Pay-Off" "Dividend" "Charlatan" "Extended Warranty" "Safe Bet" "Sure Thing" "Small Print" "419" "Rain Maker" "Travelling Salesman" "Get One Free" "Get-Rich-Quick" "The Prince's Lawyer" "Inheritance" "New Economy" "Infinite Value" "Quick Win" "Silver Bullet" "Solicitor" "Advance Fee"
+            "Great Deal" "Big Value" "Extra Value" "2 for 1" "Big Savings" "Hot Babes In Your Area" "Legit" "Your Money Back" "Investment Fund" "Free Real Estate" "Free Money" "Lose Weight Fast"  "Ponzi" "Credulous" "Gone Phishing" "Clip Joint" "Badger" "Pig in a Poke" "Glim Dropper" "Fall Man" "Three Card Monte" "Plutonian Prisoner" "Money Box" "Pyramid" "Sure-Fire" "Fortune-Teller" "Zigerion Letter" "Comission" "Chargeback" "Ace in the Sleeve" "Pay-Off" "Dividend" "Charlatan" "Extended Warranty" "Safe Bet" "Sure Thing" "Small Print" "419" "Rain Maker" "Travelling Salesman" "Get One Free" "Get-Rich-Quick" "The Prince's Lawyer" "Inheritance" "Quick Win" "Silver Bullet" "Solicitor" "Advance Fee"  "Crapshoot"
          }
 
          corvette = {
@@ -23,7 +23,7 @@ ship_names = {
          }
 
          science = {
-            "Market Research" "Doctors Hate Him" "Innovation"
+            "Market Research" "Doctors Hate Him" "Innovation" "No Warranty" "Infinite Value"
          }
 
          destroyer = {
@@ -79,7 +79,7 @@ ship_names = {
          fleet_names = {
             random_names =
             {
-               "Debitor Fleet" "Creditor Fleet" "First-Party Fleet" "Innovator Fleet" "Upseller Fleet" "Storyteller Fleet"
+               "Debitor Fleet" "Creditor Fleet" "First-Party Fleet" "Innovator Fleet" "Upseller Fleet" "Storyteller Fleet" "New Economy Fleet"
             }
             sequential_name =
          }
@@ -129,7 +129,7 @@ ship_names = {
    planet_names = {
          generic = {
             names = {
-               "New Zigeria" "Nebulon's Bargain" "Nebulon's Deal" "Marketplace" "Freeside" "Franchise" "Chopshop" "Flea Market" "Pawnsville"
+               "New Zigeria" "Nebulon's Bargain" "Nebulon's Deal" "Marketplace" "Freeside" "Franchise" "Chopshop" "Flea Market" "Pawnsville" "Bargain" "Three Card Mountain"
             }
          }
 
@@ -196,7 +196,7 @@ ship_names = {
          }
 
          second_names = {
-            "Nebulon" "Solan" "Galacticus" "Astronimus" "Hyperion" "Maximus" "Amorphos" "Placito" "Stultum" "Pecunius" "Excretium" "Profundus"
+            "Nebulon" "Solan" "Galacticus" "Astronimus" "Hyperion" "Maximus" "Amorphos" "Placito" "Stultum" "Pecunius" "Excretium" "Profundus" "Excelsior"
          }
 
          regnal_first_names = {

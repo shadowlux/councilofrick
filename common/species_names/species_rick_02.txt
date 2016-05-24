@@ -3,7 +3,7 @@
 ### COUNCIL OF RICKS
 COR = {
 	councilofricks = {
-		name = "The Council of Ricks"
+		name = "Rick"
 		plural = "Ricks"
 		home_planet = "Citadel of Ricks"
 		home_system = "Rickspace"
@@ -14,22 +14,22 @@ COR = {
 ### GALACTIC FEDERATION
 GFM = {
 	gromflomites = {
-		name = "Galactic Federation"
+		name = "Gromflomite"
 		plural = "Gromflomites"
 		home_planet = "Gromflomon"
 		home_system = "Grom"
-		name_list = "ART1"
+		name_list = "Gromflomites"
 	}
 }
 
 ### ZIGERIONS
 ZIG = {
-	zigerions = {
-		name = "The Federal Republic of Zigeria"
+	zig_republic = {
+		name = "Zigerion"
 		plural = "Zigerions"
 		home_planet = "Zigeria"
 		home_system = "Zi"
-		name_list = "ART1"
+		name_list = "Zigerion"
 	}
 }
 
@@ -42,25 +42,13 @@ ZIG = {
 #UNI = {
 #	unity = {
 #		name = "Unity"
-#		plural = "Hivemind"
+#		plural = "Unity"
 #		home_planet = "Unity"
 #		home_system = "Bleb"
 #		name_list = "Rick"
 #	}
 #}
 #
-
-### ZIGERIONS
-ZIG = {
-	zigerions = {
-		name = "Zigerion Empire"
-		plural = "Zigerions"
-		home_planet = "Zigeria"
-		home_system = "Zi"
-		name_list = "ART1"
-	}
-}
-
 ### EARTH C-137
 #C137 = {
 #	c137 = {
