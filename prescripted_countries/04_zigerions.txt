@@ -1,7 +1,7 @@
 zigerions = {
-	name = "The Federal Republic of Zigerion"
+	name = "The Zigerion Legitimacy"
 	spawn_enabled = yes
-	name_list = "ART1"
+	name_list = "Zigerion"
 	ship_prefix = "ZRN"
 	
 	species_name = "Zigerion"

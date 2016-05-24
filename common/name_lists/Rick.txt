@@ -48,7 +48,7 @@ ship_names = {
          }
 
          research_station = {
-            "Orbital Rick Reasearch Station" 
+            "Orbital Rick Research Station" 
          }
 
          wormhole_station = {
