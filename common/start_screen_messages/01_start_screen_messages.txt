@@ -34,3 +34,10 @@ part = {
 		has_country_flag = C137
 	}
 }
+part = {
+	location = 0 #always 0 
+	localization = "START_SCREEN_GRB"
+	trigger = {
+		has_country_flag = GRB
+	}
+}

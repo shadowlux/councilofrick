@@ -250,6 +250,17 @@ ZIG = {
 #	move_pop_sound_effect = "morty_moving_pop"
 #}
 
+GRB = {
+	randomized = no
+
+	portraits = {
+		#"FILL OUT"
+	}
+	
+	graphical_culture = reptilian_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+
 
 PRE_MAM = {
 

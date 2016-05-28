@@ -22,12 +22,13 @@ ship_names = {
 
          colonizer = {
             # fill
+            "Glarblarg" "Blarga" "Blarg Blarg" "Blarg Glarba Blarga"
             
          }
 
          science = {
             # fill
-            
+            "Blarg Blarga" "Glarb" "Blargablag" "Glarblaglarb"
          }
 
          destroyer = {
@@ -52,7 +53,7 @@ ship_names = {
 
          terraform_station = {}
 
-         observation_station = {}
+         observation_station = {"Glarblaglar" "Glarblarg Blar" "Blar Blar Glarb" "Glar Glarba Glar Glar"}
 
          outpost_station = {
             random_names =
@@ -61,7 +62,7 @@ ship_names = {
                
             }
             
-            sequential_name = "%O% Frontier Outpost"
+            sequential_name = "%O% Blarglab Outpost"
             }
 
 
@@ -88,7 +89,7 @@ ship_names = {
                # fill
                "Blag Arga" "Arga Blag" "Ag Glarb" "Ag Glarb Arga Blarg" "Blarg Blarg Arga Glarb Blag" "Ag Glar Glar Glarbarbrag" "Blag Aggrar Glar" "Blarag Glar Ag" "Glarbraglar" "Blar Glab Glara" "Glarlarla" "Glarbag" "Blaglarblag"
             }
-            sequential_name =
+            sequential_name = "Glarblag %O%"
          }
 
       army_names = {
@@ -138,8 +139,9 @@ ship_names = {
          generic = {
             names = {
                # Fill
-               "Garblovia"
+               "Garblovia" "Gar Blargh" "Garblarga" "Blar Gargablar" "Ag Blar Gargla" "Blargablar Glar" "Blar Glar Ag Glarr" "Blarglab Blar Glarva" "Barbaglar Glar Bargla" "Gargargablar" "Blar Ag" "Blarh Glarbglar" "Blarglarbla" "Bar Glarblarg" "Bargla Glar Glab" "Ag Glar Glab" "Garblarga Blar"
             }
+            sequential_name = "Garblovia %O%"
          }
 
          pc_desert = {
@@ -192,8 +194,9 @@ ship_names = {
          }
 
          first_names = {
-            # Fill
-            
+            "Ag" "Ak" "Akbla" "Akglar" "Agh" "Akh" "Akhglar" "Arglar" "Arglarh"
+            "Bla" "Blar" "Blarg" "Blargh" "Blarh"
+            "Gar" "Glar" "Glarba" "Glarh" "Glarblar" "Gargablar" "Garg" "Grar" "Grarg" "Grarh"
          }
 
          first_names_male = {
@@ -205,8 +208,9 @@ ship_names = {
          }
 
          second_names = {
-            # fill
-            
+            "Arg" "Argrar" "Argrah" "Argrarga" "Argrargraga" "Argahragh" "Argrargaragh" "Ag Blarg" "Ag Blarga" "Ag Blargara" "Ag Garga" "Ag Gargara" "Ag Gargra" "Ag Blargablarg"
+            "Blarg" "Blargrar" "Blargrar" "Barblargarg" "Blarg Argablarg" "Blarg Argablarga" "Blarg Ag Arga" "Blarg Ag Blarga" "Blarg Ag Blargrar" "Blarg Ag Argablarg"
+            "Garbla" "Garblarga" "Garb" "Garb Ag Glarb" "Garb Ag Blarg" "Garg Ag Blargabarg" "Garg Ag Blargargablarg"
          }
 
          regnal_first_names = {

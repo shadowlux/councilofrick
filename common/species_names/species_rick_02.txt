@@ -33,6 +33,16 @@ ZIG = {
 	}
 }
 
+### ZIGERIONS
+GRB = {
+	garblovians = {
+		name = "Garblovian"
+		plural = "Garblovians"
+		home_planet = "Garblovia"
+		home_system = "Garbl Ag"
+		name_list = "Garblovian"
+	}
+}
 
 # NO ARTWORK YET:
 #
