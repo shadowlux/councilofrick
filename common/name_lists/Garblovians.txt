@@ -1,0 +1,229 @@
+### Rick and Morty Overhaul
+
+
+Garblovian = {
+   selectable = yes
+
+ship_names = {
+
+         generic = {
+            # fill
+            "Aga" "Aga Blah" "Aga Blah Blah" "Aga Blar Blarg" "Gaga Blah" "Gaga Blarg" "Arga Blah" "Arga Blarg Blarg" "Ag Blarg" "Ag Blarga Blarg" "Ag Blag Blargablarg" "Blargablarg Blah" "Blah Blargablarg" "Blarg Blarg Garbablarg" "Blarg Garba" "Garb Blarga Blarg" "Ag Blar Glarba Glarb Glarb" "Blag Ar Blarg" "Blag Ar Blarga" "Blag Blar Aga Bla" "Blag Blar Arga Blar Blar" "Blarg Blarga Blarg Blarg" "Ag Blarga Ag" "Blag Arga Blag" "Blag Arga Blag Blag" "Blah Ag Blar Blar Blarg"
+         }
+
+         corvette = {
+            
+         }
+
+         constructor = {
+            # put at least 1
+            "Garblovian Constructor" 
+         }
+
+         colonizer = {
+            # fill
+            
+         }
+
+         science = {
+            # fill
+            
+         }
+
+         destroyer = {
+            
+         }
+
+         cruiser = {
+            
+         }
+
+         battleship = {
+            "BLAG BLAR ARGA BLARG BLAG!" "GLAR BLAR GLAR!"
+         }
+
+         orbital_station = {}
+
+         mining_station = {}
+
+         research_station = {}
+
+         wormhole_station = {}
+
+         terraform_station = {}
+
+         observation_station = {}
+
+         outpost_station = {
+            random_names =
+            {
+               # fill
+               
+            }
+            
+            sequential_name = "%O% Frontier Outpost"
+            }
+
+
+         military_station_small = {}
+         military_station_medium = {}
+         military_station_large = {}   
+
+         transport = {
+            # fill
+            "Blarglarag" "Aglarbla" "Glar Ba Glarag" "Agblag Glar Ab Glab" "Ag Blaglarlar" "Blagglar Glarblag" "Ag Glag" "Ag Blar"
+         }
+
+         military_station_small = {}
+
+         military_station_medium = {}
+
+         military_station_large = {}
+
+   }
+
+         fleet_names = {
+            random_names =
+            {
+               # fill
+               "Blag Arga" "Arga Blag" "Ag Glarb" "Ag Glarb Arga Blarg" "Blarg Blarg Arga Glarb Blag" "Ag Glar Glar Glarbarbrag" "Blag Aggrar Glar" "Blarag Glar Ag" "Glarbraglar" "Blar Glab Glara" "Glarlarla" "Glarbag" "Blaglarblag"
+            }
+            sequential_name =
+         }
+
+      army_names = {
+   
+      defense_army = {
+         sequential_name = "%O% Planetary Guard"
+      }
+
+      assault_army = {
+         sequential_name = "%O% Expeditionary Force"
+      }
+      
+      slave_army = {
+         sequential_name = "%O% Indentured Rifles"
+      }
+      
+      clone_army = { 
+         sequential_name = "%O% Clone Army"
+      }
+      
+      robotic_army = {
+         sequential_name = "%O% Hunter-Killer Group"
+      }
+      
+      android_army = {
+         sequential_name = "%O% Synthetic Rangers"
+      }
+      
+      psionic_army = { 
+         sequential_name = "%O% Psi Commando"
+      }
+      
+      xenomorph_army = {
+         sequential_name = "%O% Bio-Warfare Division"
+      }
+      
+      gene_warrior_army = {
+         random_names = {
+            # E.g: "Special Unit 'Blagraglar'" "Special Unit 'Glarblag'" "Special Unit 'Glar Brag Galar'" "Special Unit 'Ag Blarglar'"
+            
+         }
+         sequential_name = "%O% Bio-Engineered Squadron"
+      }
+   }
+
+   planet_names = {
+         generic = {
+            names = {
+               # Fill
+               "Garblovia"
+            }
+         }
+
+         pc_desert = {
+            names = {
+               
+            }
+         }
+
+         pc_arid = {
+            names = {
+               
+            }
+         }
+
+         pc_tropical = {
+            names = {
+               
+            }
+         }
+
+         pc_continental = {
+            names = {
+               
+            }
+         }
+
+         pc_ocean = {
+            names = {
+               
+            }
+         }
+
+         pc_tundra = {
+            names = {
+               
+            }
+         }
+
+         pc_arctic = {
+            names = {
+               
+            }
+         }
+   }
+
+   character_names = {
+      default = {
+         full_names = {
+            
+         }
+
+         first_names = {
+            # Fill
+            
+         }
+
+         first_names_male = {
+            
+         }
+
+         first_names_female = {
+            
+         }
+
+         second_names = {
+            # fill
+            
+         }
+
+         regnal_first_names = {
+            
+         }
+
+         regnal_first_names_male = {
+            
+         }
+
+         regnal_first_names_female = {
+            
+         }
+
+         regnal_second_names = {
+            
+         }
+      }
+   }
+}
