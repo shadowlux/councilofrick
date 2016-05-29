@@ -12,3 +12,10 @@ sound =
 	always_load = no
 	volume = 0.70
 }
+sound =
+{
+	name = "garg_moving_pop"
+	file = "ui/garg_moving_pop.wav"
+	always_load = no
+	volume = 0.70
+}
