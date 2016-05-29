@@ -143,12 +143,8 @@ ship_names = {
    planet_names = {
          generic = {
             names = {
-               # Fill
-<<<<<<< HEAD
+
                "Garblovia" "Gar Blargh" "Garblarga" "Blar Gargablar" "Ag Blar Gargla" "Blargablar Glar" "Blar Glar Ag Glarr" "Blarglab Blar Glarva" "Barbaglar Glar Bargla" "Gargargablar" "Blar Ag" "Blarh Glarbglar" "Blarglarbla" "Bar Glarblarg" "Bargla Glar Glab" "Ag Glar Glab" "Garblarga Blar"
-=======
-               
->>>>>>> origin/master
             }
             sequential_name = "Garblovia %O%"
          }
