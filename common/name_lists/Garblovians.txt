@@ -1,7 +1,7 @@
 ### Rick and Morty Overhaul
 
 
-Garblovian = {
+Garblovians = {
    selectable = yes
 
 ship_names = {
@@ -88,7 +88,8 @@ ship_names = {
                # fill
                "Blag Arga" "Arga Blag" "Ag Glarb" "Ag Glarb Arga Blarg" "Blarg Blarg Arga Glarb Blag" "Ag Glar Glar Glarbarbrag" "Blag Aggrar Glar" "Blarag Glar Ag" "Glarbraglar" "Blar Glab Glara" "Glarlarla" "Glarbag" "Blaglarblag"
             }
-            sequential_name =
+            sequential_name = 
+			"Blag Arga"
          }
 
       army_names = {
@@ -127,7 +128,7 @@ ship_names = {
       
       gene_warrior_army = {
          random_names = {
-            # E.g: "Special Unit 'Blagraglar'" "Special Unit 'Glarblag'" "Special Unit 'Glar Brag Galar'" "Special Unit 'Ag Blarglar'"
+             "Special Unit 'Blagraglar'" "Special Unit 'Glarblag'" "Special Unit 'Glar Brag Galar'" "Special Unit 'Ag Blarglar'"
             
          }
          sequential_name = "%O% Bio-Engineered Squadron"
@@ -138,49 +139,49 @@ ship_names = {
          generic = {
             names = {
                # Fill
-               "Garblovia"
+               
             }
          }
 
          pc_desert = {
             names = {
-               
+               "Gar"
             }
          }
 
          pc_arid = {
             names = {
-               
+               "Blar"
             }
          }
 
          pc_tropical = {
             names = {
-               
+               "Glarb"
             }
          }
 
          pc_continental = {
             names = {
-               
+               "Glablar"
             }
          }
 
          pc_ocean = {
             names = {
-               
+               "Blarg"
             }
          }
 
          pc_tundra = {
             names = {
-               
+               "Blagarb"
             }
          }
 
          pc_arctic = {
             names = {
-               
+               "Blargarblar"
             }
          }
    }
@@ -188,7 +189,7 @@ ship_names = {
    character_names = {
       default = {
          full_names = {
-            
+            "Aga" "Aga Blah" "Aga Blah Blah" "Aga Blar Blarg" "Gaga Blah" "Gaga Blarg" "Arga Blah" "Arga Blarg Blarg" "Ag Blarg" "Ag Blarga Blarg" "Ag Blag Blargablarg" "Blargablarg Blah" "Blah Blargablarg" "Blarg Blarg Garbablarg" "Blarg Garba" "Garb Blarga Blarg" "Ag Blar Glarba Glarb Glarb" "Blag Ar Blarg" "Blag Ar Blarga" "Blag Blar Aga Bla" "Blag Blar Arga Blar Blar" "Blarg Blarga Blarg Blarg" "Ag Blarga Ag" "Blag Arga Blag" "Blag Arga Blag Blag" "Blah Ag Blar Blar Blarg"
          }
 
          first_names = {
