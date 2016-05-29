@@ -33,8 +33,6 @@ ZIG = {
 	}
 }
 
-<<<<<<< HEAD
-### ZIGERIONS
 GRB = {
 	garblovians = {
 		name = "Garblovian"
@@ -44,19 +42,6 @@ GRB = {
 		name_list = "Garblovian"
 	}
 }
-=======
-### GARBLOVIANS
-GRB = {
-	garblovians = {
-		name = "United Garblovian Planets"
-		plural = "Garblovians"
-		home_planet = "Garbla"
-		home_system = "Garblavoa"
-		name_list = "Garblovians"
-	}
-}
-
->>>>>>> origin/master
 
 # NO ARTWORK YET:
 #

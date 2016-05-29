@@ -1,33 +1,41 @@
 portraits = {
-	ruler1 = { texturefile = "gfx/models/portraits/zigerions/ruler1.dds" }
-	general1 = { texturefile = "gfx/models/portraits/zigerions/general1.dds" }
-	scientist1 = { texturefile = "gfx/models/portraits/zigerions/scientist1.dds" }
-	scientist2 = { texturefile = "gfx/models/portraits/zigerions/scientist2.dds" }
-	scientist3 = { texturefile = "gfx/models/portraits/zigerions/scientist3.dds" }
-	governor1 = { texturefile = "gfx/models/portraits/zigerions/governor1.dds" }
-	admiral1 = { texturefile = "gfx/models/portraits/zigerions/admiral1.dds" }
-	admiral2 = { texturefile = "gfx/models/portraits/zigerions/admiral2.dds" }
-	pop1 = { texturefile = "gfx/models/portraits/zigerions/pop1.dds" }
-	pop2 = { texturefile = "gfx/models/portraits/zigerions/pop2.dds" }
+	gruler1 = { texturefile = "gfx/models/portraits/garblovians/gruler1.dds" }
+	ggeneral1 = { texturefile = "gfx/models/portraits/garblovians/ggeneral1.dds" }
+	gscientist1 = { texturefile = "gfx/models/portraits/garblovians/gscientist1.dds" }
+	gscientist2 = { texturefile = "gfx/models/portraits/garblovians/gscientist2.dds" }
+	gscientist3 = { texturefile = "gfx/models/portraits/garblovians/gscientist3.dds" }
+	ggovernor1 = { texturefile = "gfx/models/portraits/garblovians/ggovernor1.dds" }
+	ggovernor2 = { texturefile = "gfx/models/portraits/garblovians/ggovernor2.dds" }
+	ggovernor3 = { texturefile = "gfx/models/portraits/garblovians/ggovernor3.dds" }
+	gadmiral1 = { texturefile = "gfx/models/portraits/garblovians/gadmiral1.dds" }
+	gadmiral2 = { texturefile = "gfx/models/portraits/garblovians/gadmiral2.dds" }
+	gadmiral3 = { texturefile = "gfx/models/portraits/garblovians/gadmiral3.dds" }
+	gpop1 = { texturefile = "gfx/models/portraits/garblovians/gpop1.dds" }
+	gpop2 = { texturefile = "gfx/models/portraits/garblovians/gpop2.dds" }
+	gpop3 = { texturefile = "gfx/models/portraits/garblovians/gpop3.dds" }
 
 }
 
 portrait_groups = {
 	garblovians = {
-		default = ruler1
+		default = gruler1
 		game_setup = { #will run with a limited country scope. species and government is set but the country does not actually exist
 			add = {
 				portraits = {
-					ruler1
-					general1
-					scientist1
-					scientist2
-					scientist3
-					governor1
-					admiral1
-					admiral2
-					pop1
-					pop2
+					gruler1
+					ggeneral1
+					gscientist1
+					gscientist2
+					gscientist3
+					ggovernor1
+					ggovernor2
+					ggovernor3
+					gadmiral1
+					gadmiral2
+					gadmiral3
+					gpop1
+					gpop2
+					gpop3
 				}
 			}
 
@@ -36,8 +44,8 @@ portrait_groups = {
 		species = { #generic portrait for a species
 			add = {
 				portraits = {
-					pop1
-					pop2
+					gpop1
+					gpop2
 				}
 			}
 
@@ -46,8 +54,9 @@ portrait_groups = {
 		pop = { #for a specific pop
 			add = {
 				portraits = {
-					pop1
-					pop2
+					gpop1
+					gpop2
+					gpop3
 				}
 			}
 
@@ -59,9 +68,9 @@ portrait_groups = {
 					leader_class = scientist
 				}
 				portraits = {
-					scientist1
-					scientist2
-					scientist3
+					gscientist1
+					gscientist2
+					gscientist3
 				}
 			}
 			add = {
@@ -69,7 +78,7 @@ portrait_groups = {
 					leader_class = general
 				}
 				portraits = {
-					general1
+					ggeneral1
 				}
 			}
 			add = { 
@@ -77,7 +86,9 @@ portrait_groups = {
 					leader_class = governor
 				}
 				portraits = {
-					governor1
+					ggovernor1
+					ggovernor2
+					ggovernor3
 				}
 			}
 			add = {
@@ -85,8 +96,9 @@ portrait_groups = {
 					leader_class = admiral
 				}
 				portraits = {
-					admiral1
-					admiral2
+					gadmiral1
+					gadmiral2
+					gadmiral3
 				}
 			}
 		}	
@@ -94,7 +106,7 @@ portrait_groups = {
 		ruler = {
 			add = {
 				portraits = {
-					ruler1
+					gruler1
 				}
 			}
 

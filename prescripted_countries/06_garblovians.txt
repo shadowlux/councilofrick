@@ -12,7 +12,7 @@ garblovians = {
 	trait = "trait_rapid_breeders"
 	trait = "trait_adaptive"
 	
-	portrait = "zigerion" # CHANGE THIS
+	portrait = "garblovians"
 	adjective = "Garblovian"
 	government = "moral_democracy"
 	ethic = "ethic_xenophile"
@@ -34,7 +34,7 @@ garblovians = {
 	empire_flag = {
 		icon = {
 			category = "rick_and_morty"
-			file = "zigerion_flag.dds" # CHANGE THIS
+			file = "garblovian_flag.dds"
 		}
 		background = {
 			category = "backgrounds"
@@ -50,7 +50,7 @@ garblovians = {
 	ruler = {
 		name = "Ak-Grab Gabgrarblar"
 		gender = male
-		portrait = "ruler1"
+		portrait = "gruler1"
 		texture = 0
 		hair = 0
 		clothes = 0
