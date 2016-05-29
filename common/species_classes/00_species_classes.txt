@@ -226,6 +226,16 @@ ZIG = {
 	graphical_culture = mammalian_01
 	move_pop_sound_effect = "moving_pop_confirmation"
 }
+GRB = {
+	randomized = no
+	
+	portraits = {
+		"garblovians"
+	}
+	
+	graphical_culture = mammalian_01
+	move_pop_sound_effect = "move_pop_sound_effect"
+}
 
 #UNI = {
 #	randomized = no
