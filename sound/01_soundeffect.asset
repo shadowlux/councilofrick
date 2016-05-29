@@ -14,3 +14,11 @@ soundeffect =
 	}
 	volume = 0.70
 }
+soundeffect =
+{
+	name = garg_moving_pop
+	sounds {
+			sound = garg_moving_pop
+	}
+	volume = 0.70
+}
