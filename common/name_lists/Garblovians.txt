@@ -17,7 +17,7 @@ ship_names = {
 
          constructor = {
             # put at least 1
-            "Garblovian Constructor" 
+            "Glab Gargar" "Garb Gargablag" "Blag Garglar" "Garb Ag Glabglar" 
          }
 
          colonizer = {

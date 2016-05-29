@@ -1,7 +1,8 @@
 garblovians = {
 	name = "Garblovian Garblocracy"
 	spawn_enabled = always
-	name_list = "Garblovian"
+
+	name_list = "Garblovians"
 	ship_prefix = "GRB"
 	
 	species_name = "Garblovian"
@@ -14,6 +15,7 @@ garblovians = {
 	
 	portrait = "garblovians"
 	adjective = "Garblovian"
+
 	government = "moral_democracy"
 	ethic = "ethic_xenophile"
 	ethic = "ethic_individualist"
@@ -41,8 +43,8 @@ garblovians = {
 			file = "00_solid.dds"
 		}
 		colors = {
-			"black"
-			"black"
+			"blue"
+			"green"
 			"null"
 			"null"
 		}

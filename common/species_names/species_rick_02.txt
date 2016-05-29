@@ -40,7 +40,7 @@ GRB = {
 		plural = "Garblovians"
 		home_planet = "Garblovia"
 		home_system = "Garbl Ag"
-		name_list = "Garblovian"
+		name_list = "Garblovians"
 	}
 }
 
