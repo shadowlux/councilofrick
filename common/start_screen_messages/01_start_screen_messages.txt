@@ -35,7 +35,11 @@ part = {
 	}
 }
 part = {
+<<<<<<< HEAD
 	location = 0 #always 0 
+=======
+	location = 0 #always bruv
+>>>>>>> origin/master
 	localization = "START_SCREEN_GRB"
 	trigger = {
 		has_country_flag = GRB
