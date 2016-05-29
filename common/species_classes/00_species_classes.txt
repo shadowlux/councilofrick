@@ -234,7 +234,7 @@ GRB = {
 	}
 	
 	graphical_culture = mammalian_01
-	move_pop_sound_effect = "move_pop_sound_effect"
+	move_pop_sound_effect = "garg_moving_pop"
 }
 
 #UNI = {
