@@ -233,7 +233,7 @@ GRB = {
 		"garblovians"
 	}
 	
-	graphical_culture = mammalian_01
+	graphical_culture = reptilian_01
 	move_pop_sound_effect = "garg_moving_pop"
 }
 
