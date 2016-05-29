@@ -7,6 +7,8 @@
  name_list_Rick: "The Council of Ricks"
  name_list_Gromflomites: "Gromflomite"
  name_list_Zigerion: "Zigerion"
+ name_list_Garblovians: "Garblovian"
+ FLAG_CATEGORY_rick_and_morty:0 "Rick and Morty"
  
  COR:0 "Rick"
  COR_desc:1 "Species Class has no effect on your Empire, but Ricks may consider other Ricks to be less alien than other Species Classes."
@@ -29,7 +31,6 @@
  ROBOT_POP_SPECIES_3:0 "Angry Mr. Meeseeks"
  ROBOT:0 "Mr. Meeseeks"
  START_SCREEN_COR:0 "The Council of Ricks is the governing body over all Ricks within reality. The council rules from their secret headquarters called the Citadel of Ricks.  In an effort to secure their power and secret research, the council has decided to expand their empire."
- FLAG_CATEGORY_rick_and_morty:0 "Rick and Morty"
  
  GFM:0 "Gromflomite"
  GFM_desc:1 "A Bureaucratic species."
@@ -66,7 +67,6 @@
  UNI_organ:0 "stomach"
  UNI_mouth:0 "mouth"
  START_SCREEN_UNI:0 "Unity is a collective hivemind and a former lover of Rick Sanchez. Unity possesses the ability to control minds, and takes the forms of multiple genders, races and species. Unity assimilates mainds by making one its host vomit into another individuals mouth. Unity's hosts also act animalistic while spreading, making them screech and point at unassimilated individuals."
- #FLAG_CATEGORY_unity:0 "Unity"
  RT_SPOKESPERSON:0 "Spokesperson"
  HT_TRAINEE:0 "Trainee"
  
@@ -87,7 +87,6 @@
  ZIG_organ:0 "stomach"
  ZIG_mouth:0 "mouth"
  START_SCREEN_ZIG:0 "The Zigerions are a race known for their interstellar scamming. They have been chasing Rick Sanchez for his recipe of concentrated dark matter. According to Rick, they are the galaxy's most ambitious and least successful con artists. The Zigerion race as a whole suffer from Gymnophobia, the fear of nudity."
- #FLAG_CATEGORY_zigerion:0 "Zigerion"
 
  C137:0 "Human"
  C137_desc:1 "Rick, Morty, Summer, Jerry and Beth are all from Earth Dimension C-137."
@@ -106,7 +105,6 @@
  C137_organ:0 "stomach"
  C137_mouth:0 "mouth"
  START_SCREEN_C137:0 ""Wubba Lubba Dub-Dub!"\n\n-Rick Sanchez\n\nRick Sanchez and his family: Morty, Summer, Jerry and Beth are going on the greatest space adventure of all. To conquer the Universe!"
- #FLAG_CATEGORY_zigerion:0 "Earth C-137"
 
  GRB:0 "Garblovian"
  GRB_desc:1 "The Garblovians are peaceful but misunderstood galactic residents."
@@ -121,7 +119,7 @@
  GRB_sound_02:0 "grarbling"
  GRB_sound_03:0 "gargling"
  GRB_sound_04:0 "blarging"
- GRB_sound_05:0 "blargarbling"
+ GRB_sound_05:0 "exploding"
  GRB_organ:0 "stomach"
  GRB_mouth:0 "mouth"
  START_SCREEN_GRB:0 "Gar blargl gar blar. Bar glar glar, grablar ak gargablagh. Gar blag gaggahblaghblagh, blar ag gaggablaghagh garbl. Gar gablablagh gar blagablagh Gablaghvla!"
