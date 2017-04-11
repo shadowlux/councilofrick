@@ -1,3 +1,6 @@
+### Rick and Morty Overhaul - Ruler traits
+### By Mr. Sneezy 3D - mrsneezy3d@gmail.com
+
 trait_ruler_alcoholism = {
 	cost = 1
 	modification = no

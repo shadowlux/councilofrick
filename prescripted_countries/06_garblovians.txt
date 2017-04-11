@@ -1,7 +1,9 @@
+### Rick and Morty Overhaul - Prescripted Garblovians
+### By Mr. Sneezy 3D - mrsneezy3d@gmail.com
+
 garblovians = {
 	name = "Garblovian Garblocracy"
 	spawn_enabled = always
-
 	name_list = "Garblovians"
 	ship_prefix = "GRB"
 	
@@ -16,9 +18,11 @@ garblovians = {
 	portrait = "garblovians"
 	adjective = "Garblovian"
 
-	government = "moral_democracy"
+	authority = "auth_democratic"
+	civics = { "civic_free_haven" "civic_idealistic_foundation" }
+	government = "gov_moral_democracy"
 	ethic = "ethic_xenophile"
-	ethic = "ethic_individualist"
+	ethic = "ethic_egalitarian"
 	ethic = "ethic_pacifist"
 	
 	flags = { GRB custom_start_screen }
@@ -27,11 +31,11 @@ garblovians = {
 	ftl = warp
 	
 	planet_name = "Garblovia"
-	planet_class = "pc_arid"
+	planet_class = "pc_continental"
 	system_name = "Garbl Ag"
 	
-	graphical_culture = "reptilian_01"
-	city_graphical_culture = "reptilian_01"
+	graphical_culture = "arthropoid_01"
+	city_graphical_culture = "arthropoid_01"
 	
 	empire_flag = {
 		icon = {

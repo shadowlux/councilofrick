@@ -1,3 +1,6 @@
+### Rick and Morty Overhaul - Garblovian portraits
+### By Mr. Sneezy 3D - mrsneezy3d@gmail.com
+
 portraits = {
 	gruler1 = { texturefile = "gfx/models/portraits/garblovians/gruler1.dds" }
 	ggeneral1 = { texturefile = "gfx/models/portraits/garblovians/ggeneral1.dds" }

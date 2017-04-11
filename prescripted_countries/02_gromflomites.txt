@@ -1,7 +1,9 @@
+### Rick and Morty Overhaul - Prescripted Gromflomites
+### By Mr. Sneezy 3D - mrsneezy3d@gmail.com
+
 gromflomites = {
 	name = "Galactic Federation"
 	spawn_enabled = always
-	
 	name_list = "Gromflomites"
 	ship_prefix = "GIS"
 	
@@ -16,9 +18,12 @@ gromflomites = {
 	portrait = "gromflomites"
 	adjective = "Gromflomite"
 	
-	government = "military_republic"
-	ethic = "ethic_fanatic_militarist"
+	authority = "auth_democratic"
+	civics = { "civic_citizen_service" "civic_efficient_bureaucracy" }
+	government = "gov_citizen_republic"
+	ethic = "ethic_militarist"
 	ethic = "ethic_xenophile"
+	ethic = "ethic_egalitarian"
 	
 	flags = { GFM custom_start_screen }
 	
@@ -26,16 +31,16 @@ gromflomites = {
 	ftl = warp
 	
 	planet_name = "Gromflomon"
-	planet_class = "pc_tundra"
+	planet_class = "pc_arid"
 	system_name = "Grom"
 	
-	graphical_culture = "molluscoid_01"
-	city_graphical_culture = "molluscoid_01"
+	graphical_culture = "reptilian_01"
+	city_graphical_culture = "reptilian_01"
 	
 	empire_flag = {
 		icon = {
 			category = "rick_and_morty"
-			file = "gf_flag.dds"	
+			file = "gf_flag.dds"
 		}
 		background = {
 			category = "backgrounds"
@@ -43,7 +48,7 @@ gromflomites = {
 		}
 		colors = {
 			"black"
-			"black"
+			"blue"
 			"null"
 			"null"
 		}

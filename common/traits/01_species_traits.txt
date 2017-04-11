@@ -1,11 +1,7 @@
-#trait_unity = {
-#	cost = 2
-#	opposites = { "trait_communal" "trait_conformists" }
-#	
-#	modifier = {
-#		pop_ethic_shift  = -0.5
-#	}
-#}
+### Rick and Morty Overhaul - Species traits
+### By Mr. Sneezy 3D - mrsneezy3d@gmail.com
+
+
 trait_gymnophobia = {
 	cost = -2
 	opposites = { "trait_agrarian" "trait_rapid_breeders"}
@@ -14,6 +10,7 @@ trait_gymnophobia = {
 		pop_growth_req_mult = 0.3
 	}
 }
+
 trait_scammer = {
 	cost = 4
 	opposites = { "trait_thrifty" }
@@ -23,4 +20,11 @@ trait_scammer = {
 	}
 }
 
-	
+#trait_unity = {
+#	cost = 2
+#	opposites = { "trait_communal" "trait_conformists" }
+#	
+#	modifier = {
+#		pop_ethic_shift  = -0.5
+#	}
+#}

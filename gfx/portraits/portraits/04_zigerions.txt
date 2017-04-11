@@ -1,3 +1,6 @@
+### Rick and Morty Overhaul - Zigerion portraits
+### By Mr. Sneezy 3D - mrsneezy3d@gmail.com
+
 portraits = {
 	ruler1 = { texturefile = "gfx/models/portraits/zigerions/ruler1.dds" }
 	general1 = { texturefile = "gfx/models/portraits/zigerions/general1.dds" }

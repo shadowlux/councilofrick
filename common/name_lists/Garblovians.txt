@@ -1,10 +1,8 @@
 ### Rick and Morty Overhaul
-
+### By Mr. Sneezy 3D - mrsneezy3d@gmail.com
 
 Garblovians = {
-   selectable = yes
-
-ship_names = {
+   ship_names = {
 
          generic = {
             # fill
@@ -89,12 +87,7 @@ ship_names = {
                # fill
                "Blag Arga" "Arga Blag" "Ag Glarb" "Ag Glarb Arga Blarg" "Blarg Blarg Arga Glarb Blag" "Ag Glar Glar Glarbarbrag" "Blag Aggrar Glar" "Blarag Glar Ag" "Glarbraglar" "Blar Glab Glara" "Glarlarla" "Glarbag" "Blaglarblag"
             }
-<<<<<<< HEAD
             sequential_name = "Glarblag %O%"
-=======
-            sequential_name = 
-			"Blag Arga"
->>>>>>> origin/master
          }
 
       army_names = {
@@ -144,50 +137,53 @@ ship_names = {
          generic = {
             names = {
 
-               "Garblovia" "Gar Blargh" "Garblarga" "Blar Gargablar" "Ag Blar Gargla" "Blargablar Glar" "Blar Glar Ag Glarr" "Blarglab Blar Glarva" "Barbaglar Glar Bargla" "Gargargablar" "Blar Ag" "Blarh Glarbglar" "Blarglarbla" "Bar Glarblarg" "Bargla Glar Glab" "Ag Glar Glab" "Garblarga Blar"
+               "Garblovia" "Gar Blargh" "Garblarga" "Blar Gargablar" "Ag Blar Gargla" "Blargablar Glar" "Blar Glar Ag Glarr" "Blarglab Blar Glarva" "Barbaglar Glar Bargla" "Gargargablar" "Blar Ag" "Blarh Glarbglar" "Blarglarbla" "Bar Glarblarg" "Bargla Glar Glab" "Ag Glar Glab" "Garblarga Blar" "Gar" "Blar" "Glarb" "Glablar" "Blarg" "Blagarb" "Blargarblar"
             }
             sequential_name = "Garblovia %O%"
          }
 
          pc_desert = {
             names = {
-               "Gar"
             }
          }
 
          pc_arid = {
             names = {
-               "Blar"
             }
          }
 
          pc_tropical = {
             names = {
-               "Glarb"
             }
          }
 
          pc_continental = {
             names = {
-               "Glablar"
             }
          }
 
          pc_ocean = {
             names = {
-               "Blarg"
             }
          }
 
          pc_tundra = {
             names = {
-               "Blagarb"
             }
          }
 
          pc_arctic = {
             names = {
-               "Blargarblar"
+            }
+         }
+
+         pc_savannah = {
+            names = {
+            }
+         }
+
+         pc_alpine = {
+            names = {
             }
          }
    }

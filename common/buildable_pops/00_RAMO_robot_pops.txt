@@ -1,3 +1,6 @@
+### Rick and Morty Overhaul - Mr. Meeseeks Robots
+### By Mr. Sneezy 3D - mrsneezy3d@gmail.com
+
 buildable_robot_pop_1 = {
 		
 	prerequisites = {
@@ -9,8 +12,9 @@ buildable_robot_pop_1 = {
 	}
 	
 	allow = {
-		NOT = {
-			has_policy_flag = ai_outlawed
+		OR = {
+			has_policy_flag = ai_servitude
+			has_policy_flag = ai_full_rights
 		}
 	}
 	
@@ -18,6 +22,7 @@ buildable_robot_pop_1 = {
 		NOT = {
 			has_technology = "tech_droid_workers"
 			has_technology = "tech_synthetic_workers"
+			has_country_flag = synthetic_age
 		}
 	}
 	
@@ -53,6 +58,7 @@ buildable_robot_pop_1 = {
 		can_generate_leaders = no
 		can_be_modified = no
 		pops_have_happiness = no
+		consumer_goods = no
 		pop_ethics = no
 	}
 }
@@ -68,14 +74,16 @@ buildable_robot_pop_2 = {
 	}
 	
 	allow = {
-		NOT = {
-			has_policy_flag = ai_outlawed
+		OR = {
+			has_policy_flag = ai_servitude
+			has_policy_flag = ai_full_rights
 		}
 	}
 	
 	potential = {
 		NOT = {
 			has_technology = "tech_synthetic_workers"
+			has_country_flag = synthetic_age
 		}
 	}
 	
@@ -112,6 +120,7 @@ buildable_robot_pop_2 = {
 		pops_can_be_slaves = no
 		can_be_modified = no
 		pops_have_happiness = no
+		consumer_goods = no
 		pop_ethics = no
 	}
 }
@@ -127,13 +136,16 @@ buildable_robot_pop_3 = {
 	}
 	
 	allow = {
-		NOT = {
-			has_policy_flag = ai_outlawed
+		OR = {
+			has_policy_flag = ai_servitude
+			has_policy_flag = ai_full_rights
 		}
 	}
 	
 	potential = {
-		always = yes
+		NOT = {
+			has_country_flag = synthetic_age
+		}
 	}
 	
 	species = {

@@ -1,4 +1,6 @@
-# councilofricks
+### Rick and Morty Overhaul
+
+# Council of Ricks
 part = {
 	location = 0 #always 0
 	localization = "START_SCREEN_COR"
@@ -6,6 +8,7 @@ part = {
 		has_country_flag = COR
 	}
 }
+# Gromflomites
 part = { 
 	location = 0 #always 0
 	localization = "START_SCREEN_GFM"
@@ -13,13 +16,7 @@ part = {
 		has_country_flag = GFM
 	}
 }
-part = {
-	location = 0 #always 0
-	localization = "START_SCREEN_UNI"
-	trigger = {
-		has_country_flag = UNI
-	}
-}
+# Zigerions
 part = {
 	location = 0
 	localization = "START_SCREEN_ZIG"
@@ -27,21 +24,26 @@ part = {
 		has_country_flag = ZIG
 	}
 }
+# Garblovians
 part = {
 	location = 0 #always 0 
-	localization = "START_SCREEN_C137"
-	trigger = {
-		has_country_flag = C137
-	}
-}
-part = {
-<<<<<<< HEAD
-	location = 0 #always 0 
-=======
 	location = 0 #always bruv
->>>>>>> origin/master
 	localization = "START_SCREEN_GRB"
 	trigger = {
 		has_country_flag = GRB
 	}
 }
+#part = {
+#	location = 0 #always 0
+#	localization = "START_SCREEN_UNI"
+#	trigger = {
+#		has_country_flag = UNI
+#	}
+#}
+#part = {
+#	location = 0 #always 0 
+#	localization = "START_SCREEN_C137"
+#	trigger = {
+#		has_country_flag = C137
+#	}
+#}
