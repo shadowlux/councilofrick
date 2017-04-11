@@ -1,4 +1,5 @@
-##### COUNCIL OF RICKS SPECIES
+### Rick and Morty Overhaul species names
+### By Mr. Sneezy 3D - mrsneezy3d@gmail.com
 
 ### COUNCIL OF RICKS
 COR = {
@@ -33,7 +34,7 @@ ZIG = {
 	}
 }
 
-### Garblovians
+### GARBLOVIANS
 GRB = {
 	garblovians = {
 		name = "Garblovian"

@@ -1,10 +1,9 @@
 ### Rick and Morty Overhaul
+### By Mr. Sneezy 3D - mrsneezy3d@gmail.com
 
 
 Zigerion = {
-   selectable = yes
-
-ship_names = {
+   ship_names = {
 
          generic = {
             "Great Deal" "Big Value" "Extra Value" "2 for 1" "Big Savings" "Hot Babes In Your Area" "Legit" "Your Money Back" "Investment Fund" "Free Real Estate" "Free Money" "Lose Weight Fast"  "Ponzi" "Credulous" "Gone Phishing" "Clip Joint" "Badger" "Pig in a Poke" "Glim Dropper" "Fall Man" "Three Card Monte" "Plutonian Prisoner" "Money Box" "Pyramid" "Sure-Fire" "Fortune-Teller" "Zigerion Letter" "Comission" "Chargeback" "Ace in the Sleeve" "Pay-Off" "Dividend" "Charlatan" "Extended Warranty" "Safe Bet" "Sure Thing" "Small Print" "419" "Rain Maker" "Travelling Salesman" "Get One Free" "Get-Rich-Quick" "The Prince's Lawyer" "Inheritance" "Quick Win" "Silver Bullet" "Solicitor" "Advance Fee"  "Crapshoot"
@@ -172,6 +171,16 @@ ship_names = {
          pc_arctic = {
             names = {
                
+            }
+         }
+         
+         pc_savannah = {
+            names = {
+            }
+         }
+
+         pc_alpine = {
+            names = {
             }
          }
 

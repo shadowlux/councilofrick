@@ -1,11 +1,10 @@
 ﻿### Council of Ricks
 ### Created by Benjamin "Inventex" Easterbrook
+### Edited by Mr. Sneezy 3D - mrsneezy3d@gmail.com
 
 
 Rick = {
-   selectable = yes
-
-ship_names = {
+   ship_names = {
 
          generic = {
             "Rick Vermillion Star Craft" "Rick Ichor Interstellar Vehicle" "Rick Zeta Star Craft" "Rick Epsilon Interstellar Vehicle" "Rick Zeta Interstellar Vehicle" "Rick Feral Star Craft" "Rick Void Interstellar Vehicle" "Rick Venom Interstellar Vehicle" "Rick Theta Space Craft" "Rick Gamma Space Craft" "Rick Venom Space Craft" "Rick Quasar Interstellar Vehicle" "Rick Prime Space Craft" "Rick Theta Space Vessel" "Rick Epsilon Space Vessel" "Rick Sigma Star Craft" "Rick Quasar Space Craft" "Rick Chi Space Vessel" "Rick Oblivion Space Craft" "Rick Omicron Ricksy Ship" "Rick Epsilon Interstellar Vehicle" "Rick Prime Interstellar Craft" "Rick Cosmic Interstellar Craft" "Rick Eta Interstellar Vehicle" "Rick Zeta Interstellar Craft" "Rick Nebula Space Vessel" "Rick Zeta Space Vessel" "Rick Delta Interstellar Craft" "Rick Gamma Interstellar Vehicle" "Rick Eta Interstellar Craft" "Rick Zeta Interstellar Craft" "Rick Ichor Ricksy Ship" "Rick Omega Space Craft" "Rick Beta Interstellar Vehicle" "Rick Prime Space Craft" "Rick Alpha Space Vessel" "Rick Pyrex Interstellar Craft" "Rick Theta Space Vessel" "Rick Vermillion Space Vessel" "Rick Epsilon Ricksy Ship" "Rick Theta Space Vessel" "Rick Tau Interstellar Craft" "Rick Chi Space Vessel" "Rick Quasar Space Vessel" "Rick Paragon Interstellar Craft" "Rick Cosmic Interstellar Craft" "Rick Eta Space Vessel" "Rick Quasar Ricksy Ship" "Rick Pyrex Ricksy Ship" "Rick Cyclone Interstellar Vehicle" 
@@ -196,6 +195,16 @@ ship_names = {
          pc_arctic = {
             names = {
                
+            }
+         }
+
+         pc_savannah = {
+            names = {
+            }
+         }
+
+         pc_alpine = {
+            names = {
             }
          }
 

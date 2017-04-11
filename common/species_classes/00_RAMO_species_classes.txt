@@ -1,0 +1,88 @@
+### Rick and Morty Overhaul species classes
+### By Mr. Sneezy 3D - mrsneezy3d@gmail.com
+
+# Number of entries controlls amount to choose from in designer  I.E.   "mol1" "mol2" "mol3" "mol4"
+# graphical_culture is connected to the looks used for ships and cities, see "common/graphical_culture/"
+# Portraits here are one you can choose from in the character creater. For prescripted races they are grabbed straight from the .gfx file. 
+# can specify playable=no to disable people from picking specified class.
+# can specify randomized=no to filter specified class from randomization.
+
+COR = {
+	randomized = no
+
+	portraits = {
+		"rick"
+	}
+	
+	graphical_culture = mammalian_01
+	move_pop_sound_effect = "morty_moving_pop"
+}
+
+GFM = {
+	randomized = no
+
+	portraits = {
+		"gromflomites"
+	}
+	
+	graphical_culture = molluscoid_01
+	move_pop_sound_effect = "molluscoid_pops_move"
+}
+
+ZIG = {
+	randomized = no
+
+	portraits = {
+		"zigerions"
+	}
+	
+	graphical_culture = mammalian_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+
+GRB = {
+	randomized = no
+	
+	portraits = {
+		"garblovians"
+	}
+	
+	graphical_culture = reptilian_01
+	move_pop_sound_effect = "garg_moving_pop"
+}
+
+#UNI = {
+#	randomized = no
+#
+#	portraits = {
+#		"unity"
+#	}
+#	
+#	graphical_culture = mammalian_01
+#	move_pop_sound_effect = "moving_pop_confirmation"
+#}
+
+
+#C137 = {
+#	randomized = no
+#
+#	portraits = {
+#		"c137"
+#	}
+#	
+#	graphical_culture = mammalian_01
+#	move_pop_sound_effect = "morty_moving_pop"
+#}
+
+ROBOT = {
+	playable = no
+	randomized = no
+	robotic = yes
+	
+	portraits = {
+		"meeseeks1"
+	}
+	
+	graphical_culture = ai_01
+	move_pop_sound_effect = "meeseeks_can_do"
+}

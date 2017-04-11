@@ -1,27 +1,32 @@
+### Rick and Morty Overhaul - Prescripted Council of Ricks
+### By Mr. Sneezy 3D - mrsneezy3d@gmail.com
+
 councilofricks = {
 	name = "The Council of Ricks"
 	spawn_enabled = always # yes / no / always
-	use_ai = no
+
+	# May have been removed:
+	#use_ai = no
+
 	name_list = "Rick"
-	ship_prefix = "TST"
+	ship_prefix = "HRS"
 	
 	species_name = "Human"
-	species_plural = "Ricks"	#we should localize this!
+	species_plural = "Ricks"
 	species_adjective = "Rick"
 	species_class = "COR"
 	trait = "trait_intelligent"
 	trait = "trait_conformists"	
 	trait = "trait_decadent"
 	trait = "trait_repugnant"
-<<<<<<< HEAD
 	portrait = "rick"
-=======
-	portrait = "rick"
->>>>>>> origin/master
 	adjective = "Rick"
 	
-	government = "science_directorate"
-	ethic = "ethic_collectivist"
+	# New government options:
+	authority = "auth_oligarchic"
+	civics = { "civic_technocracy" "civic_aristocratic_elite" }
+	government = gov_science_directorate
+	ethic = "ethic_authoritarian"
 	ethic = "ethic_materialist"
 	ethic = "ethic_militarist"
 
@@ -47,8 +52,8 @@ councilofricks = {
 			file = "00_solid.dds"
 		}
 		colors={
-			"blue"
 			"black"
+			"orange"
 			"null"
 			"null"
 		}
@@ -56,22 +61,16 @@ councilofricks = {
 	#leader = {
 	#	name = "Rick Sanchez"
 	#	class = ruler
-<<<<<<< HEAD
 	#	portrait = "rick1"
-=======
 	#	portrait = "rick1"
->>>>>>> origin/master
 	#	experience = 1200.0
 	#}
 	
 	ruler = {
 		name = "Riq IV"
 		gender = male
-<<<<<<< HEAD
 		portrait = "rick49"
-=======
 		portrait = "rick49"
->>>>>>> origin/master
 		texture = 0
 		hair = 0
 		clothes = 0

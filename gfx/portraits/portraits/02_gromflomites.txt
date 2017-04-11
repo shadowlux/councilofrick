@@ -1,3 +1,6 @@
+### Rick and Morty Overhaul - Gromflomite portraits
+### By Mr. Sneezy 3D - mrsneezy3d@gmail.com
+
 portraits = {
 	ruler_gromflomite1     = { texturefile = "gfx/models/portraits/gromflomites/ruler_gromflomite1.dds" }
 	scientist_gromflomite1 = { texturefile = "gfx/models/portraits/gromflomites/scientist_gromflomite1.dds" }

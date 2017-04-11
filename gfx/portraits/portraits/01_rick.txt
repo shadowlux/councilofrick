@@ -1,5 +1,8 @@
-portraits = {
+### Rick and Morty Overhaul - Rick portraits
+### By Mr. Sneezy 3D - mrsneezy3d@gmail.com
 
+portraits = {
+	# Probably not working
     modularrick1 = {
         #entity = "portrait_human_male_01_entity"
         #texturefile = "gfx/models/portraits/council/modularrick/rick_head_1.dds"

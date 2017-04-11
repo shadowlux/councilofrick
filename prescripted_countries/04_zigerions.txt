@@ -1,3 +1,6 @@
+### Rick and Morty Overhaul - Prescripted Zigerions
+### By Mr. Sneezy 3D - mrsneezy3d@gmail.com
+
 zigerions = {
 	name = "The Zigerion Legitimacy"
 	spawn_enabled = always
@@ -13,9 +16,13 @@ zigerions = {
 	
 	portrait = "zigerions"
 	adjective = "Zigerion"
-	government = "despotic_hegemony"
-	ethic = "ethic_fanatic_materialist"
+
+	authority = "auth_oligarchic"
+	civics = { "civic_meritocracy" "civic_corporate_dominion" }
+	government = "gov_executive_committee"
+	ethic = "ethic_materialist"
 	ethic = "ethic_xenophobe"
+	ethic = "ethic_egalitarian"
 	
 	flags = { ZIG custom_start_screen }
 	
@@ -26,8 +33,8 @@ zigerions = {
 	planet_class = "pc_arctic"
 	system_name = "Zi"
 	
-	graphical_culture = "mammalian_01"
-	city_graphical_culture = "mammalian_01"
+	graphical_culture = "reptilian_01"
+	city_graphical_culture = "reptilian_01"
 	
 	empire_flag = {
 		icon = {
@@ -40,7 +47,7 @@ zigerions = {
 		}
 		colors = {
 			"black"
-			"black"
+			"green"
 			"null"
 			"null"
 		}
