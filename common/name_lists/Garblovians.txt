@@ -88,7 +88,6 @@ Garblovians = {
                "Blag Arga" "Arga Blag" "Ag Glarb" "Ag Glarb Arga Blarg" "Blarg Blarg Arga Glarb Blag" "Ag Glar Glar Glarbarbrag" "Blag Aggrar Glar" "Blarag Glar Ag" "Glarbraglar" "Blar Glab Glara" "Glarlarla" "Glarbag" "Blaglarblag"
             }
             sequential_name = "Glarblag %O%"
-            sequential_name = "Blag Arga"
          }
 
       army_names = {
